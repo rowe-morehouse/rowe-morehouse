@@ -1,23 +1,31 @@
+# 👋 Hi, thanks for stopping by. Here's what I'm up to lately:
 <div align="center">
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width="25">
-    </td>
-    <td>
-      - Working on a slide deck for a workshop I'm leading for [ChickTech](https://chicktech.org/).
-        + Customizing [reveal.js](https://revealjs.com/) —  the awesome open-source presentation software by [Hakim El](https://hakim.se/).
-        + Testing out some features at [Ludus](https://ludus.one/) — an impressive design-driven online presentation SaaS app. 
-        + Iterating on my lesson plan. Following Google's [Applied Digital Skills Lesson Plan](https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit) format. Determining the best way to teach Markdown to highschool students.
-      - Writing a tutorial on workflows for creating clean explainer GIFs from screen-capture sources.
-      - Studing for a Google Cloud Platform Certification. 
-        + I made an [Anki](https://apps.ankiweb.net/) flashcard deck ([spaced repetition learning](https://www.wikiwand.com/en/Spaced_repetition)) for studying. You can [download it here](https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218).
-      - Contributing to [Lazycard](https://github.com/hikikones/Lazycard) — a cool little React / Electron app for flashcards.
-      - Working on the ImageScrounge MVP. ImageScrounge is a little desktop app I'm making. Its main feature enables simultaneously previwing multiple images at their natural dimensions — as opposed to images being rendered into thumbnails, constrained by a preview app window.
-      - Iterating on Swayze: my Facebook Messenger AI chatbot built with [Wit AI](https://wit.ai/). I've been neglecting him. Swayze needs some love. :)
-    </td>
-  </tr>
-</table>
-
-## [Hit me on twitter](https://twitter.com/rowemore) if you want to chat. ✌️
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-spacing: 0; border-collapse: collapse; display: block">
+    <tr>
+      <td style="padding: 0; margin: 0">
+        <ul>
+          <li>Working on a slide deck for a workshop I'm leading for <a href="https://chicktech.org">ChickTech</a>.
+            <ul type="circle">
+              <li>Customizing <a href="https://revealjs.com">reveal.js</a> —  the awesome open-source presentation software by <a href="https://hakim.se">Hakim El</a>.
+              <li>Testing out some features at <a href="https://ludus.one">Ludus</a> — an impressive design-driven online presentation SaaS app.
+              <li>Following Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format to iterate on my lesson plan.  Determining the best way to teach Markdown to high school students.
+            </ul>
+          <li>Writing a tutorial on workflows for creating clean explainer GIFs from screen-capture sources.
+          <li>Studying for a Google Cloud Platform Certification.
+            <ul type="circle">
+              <li>I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for studying. You can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it here</a>.
+            </ul>
+          <li>Contributing programming to <a href="https://github.com/hikikones/Lazycard">Lazycard</a> — a cool little React / Electron app for flashcards.
+          <li>Working on the ImageScrounge MVP. ImageScrounge is a little desktop app I'm making. Its main feature enables simultaneously previewing multiple images at their natural dimensions — as opposed to images being rendered into thumbnails, or constrained by a preview app window.
+          <li>Iterating on <a href="https://swayze.ai/">Swayze</a> — my Facebook Messenger AI chatbot <a href="https://wit.ai">built with Wit AI</a>. I've been neglecting him. Swayze needs some love. :)
+        </ul>
+      </td>
+      <td style="padding: 0; margin: 0">
+        <div align="center">
+          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width="100%">
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+### <a href="https://twitter.com/rowemore">Hit me on twitter</a> if you want to chat. ✌️
