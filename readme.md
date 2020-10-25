@@ -22,7 +22,8 @@
       </td>
       <td style="padding: 0; margin: 0">
         <div align="center">
-          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width="100%">
+          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width="100%"><br />
+         <i>"… at the intersection of design and engineering."</i>
         </div>
       </td>
     </tr>
