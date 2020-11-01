@@ -1,6 +1,6 @@
 # 👋 Hi, thanks for stopping by.
 <div align="center">
- <table width="100%" border="0" cellspacing="0" cellpadding="5" style="border-spacing: 0; border-collapse: collapse; display: block">
+ <table width="100%" border="0" cellspacing="0" cellpadding="5">
     <tr>
       <td style="padding: 5px; margin: 0;">
         <h3>&nbsp; Here's what I'm up to lately:</h3>
