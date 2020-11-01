@@ -6,7 +6,7 @@
       <h3>&nbsp; Here's what I'm up to lately:</h3>
       <ul>
       <li>Iterating on <a href="https://swayze.ai/">Swayze</a> — my Facebook Messenger chatbot <a href="https://wit.ai">built with Wit AI</a>. I've been neglecting him. Swayze needs some love. :)</li>
-      <br /><br /><li>Made a list of keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>.
+      <li>Made a list of keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>.
       <br /><br /><li>Experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like OpenLexicon and <a href="https://s3-us-west-2.amazonaws.com/downloads.liwc.net/LIWC2015_OperatorManual.pdf">The LICW 2015</a>, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
       <br /><br />
       <ul type="circle">
@@ -29,8 +29,8 @@
       </td>
       <td style="padding: 0; margin: 0">
         <div align="center">
-          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width="250"><br />
-         <i>"… at the intersection of design and engineering."</i>
+          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif"><br />
+         <i>"… at the intersection of design&nbsp;and&nbsp;engineering."</i>
         </div>
       </td>
     </tr>
