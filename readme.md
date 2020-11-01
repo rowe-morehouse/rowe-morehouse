@@ -1,9 +1,8 @@
-# 👋 Hi, thanks for stopping by.
+# 👋 Hi, thanks for stopping by. Here's what I'm up to lately:
 <div align="center">
  <table width="100%" border="0" cellspacing="0" cellpadding="5">
     <tr>
       <td style="padding: 5px; margin: 0;">
-      <h3>&nbsp; Here's what I'm up to lately:</h3>
       <ul>
       <li>Iterating on <a href="https://swayze.ai/">Swayze</a> — my Facebook Messenger chatbot <a href="https://wit.ai">built with Wit AI</a>. I've been neglecting him. Swayze needs some love. :)
       <small><br /><br /></small><li>Made a list of keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>.
@@ -22,7 +21,7 @@
       <li>Testing out some features at <a href="https://ludus.one">Ludus</a> — an impressive design-driven presentation app.
       <li>Following Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format to iterate on my lesson plan & determine the best way to teach Markdown to high school students.
       </ul>
-      <br /><li>Studying for the Google Cloud Developer certification. I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for studying. You can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it here</a>.
+      <br /><li>Studying for the Google Cloud Developer certification. I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for studying. You can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it from this gist</a>.
       <small><br /><br /></small><li>Contributing programming to <a href="https://github.com/hikikones/Lazycard">Lazycard</a> — a cool little React / Electron app for flashcards.
       <small><br /><br /></small><li>Working on my ImageScrounge MVP. ImageScrounge is a little desktop app I'm making. Its main feature enables previewing multiple images simultaneously at their natural dimensions — as opposed to images being rendered into thumbnails, or constrained by a preview app window.
       </ul>
