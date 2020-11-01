@@ -1,8 +1,9 @@
-# 👋 Hi, thanks for stopping by. Here's what I'm up to lately:
+# 👋 Hi, thanks for stopping by.
 <div align="center">
  <table width="100%" border="0" cellspacing="0" cellpadding="5">
     <tr>
       <td style="padding: 5px; margin: 0;">
+      <h3>&nbsp; Here's what I'm up to lately:</h3>
       <ul>
       <li>Iterating on <a href="https://swayze.ai/">Swayze</a> — my Facebook Messenger chatbot <a href="https://wit.ai">built with Wit AI</a>. I've been neglecting him. Swayze needs some love. :)
       <small><br /><br /></small><li>Made a list of keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>.
