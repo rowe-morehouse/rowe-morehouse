@@ -1,4 +1,4 @@
-<h1><font color="#6461FB"> 👋 Hi, thanks for stopping by.</font></h1>
+<h1> 👋 Hi, thanks for stopping by.</h1>
 <div align="center">
  <table width="100%" border="0" cellspacing="0" cellpadding="5">
     <tr>
@@ -12,7 +12,7 @@
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>
         </p>
-      <h3><font size="+2">&nbsp; Here's what I'm up to lately:</font></h3>
+      <h3>&nbsp; Here's what I'm up to lately:</h3>
       <ul>
       <li>Iterating on <a href="https://swayze.ai/">Swayze</a> — my Facebook Messenger chatbot <a href="https://wit.ai">built with Wit AI</a>. I've been neglecting him. Swayze needs some love. :)
       <small><br /><br /></small><li>Made a list of over 12,000 keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>. I'm using it for copywriting.
@@ -52,3 +52,5 @@
 <hr />
 
 <a href="https://1x.engineer/" target=_new border=0><img src="https://img.shields.io/github/stars/cutenode/1x.engineer.svg?color=6461FB&label=I'm%20a%201x%20Engineer&logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADAElEQVRoQ%2B1YPZMNQRQ9RyYiUCVkI0J%2BASUi4xfYzYjsVsmXX2BFZFauigyJ4hcQEtkNVQmoEjvqqh7VM6%2B%2FZ%2BapqXodvtdz%2B56%2B59zT3cTCBxeePzYA%2FncFNxUoqYCkEwC2AbwjeVTyTemctVRA0iUAH11SxwBekLxfmmRq3roA3AHwxEvkLcnrSwJwCOC2l%2FBDkg%2BWBOAzgAtewjdIvlkEAElnAHwDYEK28RvAWZLflwLAuP7aS%2FYLyYtTJG8xZhexJOP6vpfwc5LWUicZ6wDwHsAVL9u7JJ9Okv2YCki6SfJVKhFnYL8AnPTmXSb5yf%2BuJFZsnaYKSHoEYBfAIcmdWPCBgdk0E64J2IT8d0h65lz6gORebWWqAEg6DeAlgKveQjskrc%2BvDElJA5NkWjAA3TC63SL5oxRIMQC3m5b8%2BUHwn%2FZbaFFJUQNzm2HnolODePabgejRbBSF3E4ZbawC%2FrBzjWkhuJikpIG5TTEdnRvEtQrsxSrrz81WwOP7cBM%2BuOSD5S41MFcJA%2BF3qm6trC6iACJ87wI%2FJmkijg5JVQYm6QDAvUDApC6CADJ83y0pbYuBOaoakGJdrACwnuw6QxXfhzsnqcnAMrqwjtfznhCAr4FOk%2BR7IHk7uGUNLMa%2FhC6OSG4lRSzJ2tiwK1T15xIDy%2Bgn5Df2yTHJXhuPUcj6dzEPAxVovoFl9LedpZAlM7Y%2Fpwwss%2FPmzFV%2Bk2ujTf05Z2AhEK1%2BU2JkVf251MA6EGP9JgvAUcpKW9SfawxsCr8pAlCgi63uMFdqYG7nrWWP8ptiAA6ELTbURe84XWNggeN0ld9YTlUAPN52uujdb0tvYL6IvY6VPV%2BFxN8EwFVj5UrZamBrv1ImjgDNBpbyh9R%2FzRWI9PLZnhBjIKYGMNsT4uwAag2slTLD7yarQI2BTZV8cxuN8H%2FWJ8R1UKjpBja2GlNSyMzNrqPdZWjlCXFsspMaWcIL7MZ0zT07%2FntCnCP5STUwV4K5uJNRKLfQXP9vAMy1s6VxF1%2BBPxWSokDSvlDHAAAAAElFTkSuQmCC&style=for-the-badge&link=https://1x.engineer&link=https://github.com/cutenode/1x.engineer/stargazers"></a>
+
+<img alt="Hit Counter" src="https://hitcount.io/api/ram0faYf5?initial=99&background=F6F9FC&color=2FB380&&size=10.5" />
