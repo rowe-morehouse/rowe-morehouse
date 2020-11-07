@@ -21,20 +21,26 @@
       <ul type="circle">
       <li>MY GOAL <strong>with this whole Machine Learning / Artifical Intelligence</strong> angle-of-inquiry is to learn to 1) write more engaging copy, 2) develop more empathetic products, and 3) design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's fun to spin-up the AI stuff on Google Cloud.
       <small><br /><br /></small><li>Participating in Facebook's Wit.ai hackathon is what sent me down this AI path. I've also been working with <a href="https://cloud.google.com/dialogflow/docs">Dialog Flow</a>, and I've got the basic codebase set up for porting Swayze into an <a href="https://developer.amazon.com/en-US/docs/alexa/custom-skills/host-a-custom-skill-as-an-aws-lambda-function.html">Amazon Alexa Skill</a>.
-      </ul>  
-      <br /><li>I'm learning <a href="https://storybook.js.org/">Storybook</a> in order to get better at designing <em>resuable UI components</em> and data visualizations.
+      </ul>
+      <br /><li>Oh yah, <a href="https://www.w3.org/TR/speech-synthesis/">SSML</a>. I'm railing your webinar and feeding it to <a href="https://cloud.google.com/speech-to-text">GCP speech-to-text</a>, then I make you speak back in the voice I want you to, with my SSML inflections and my fun sound effects courtesy of <a href="https://developer.amazon.com/en-US/docs/alexa/custom-skills/ask-soundlibrary.html">Amazon Alexa Skills Kit Sound Library</a>. A new way of repurposing content, basically. Your content. 😈<br/ >
+      <br /><li>I want to try to do this at scale with services like <a href="https://contentyze.com">Contentyze</a> and <a href="https://petacrunch.com/">PetaCrunch</a>.<br />
+      <br /><li>How about <strong>I publish one hundred (100) AI-authored articles a day</strong> based on flywheel feedback from what users are responding to — both in trad analytics and sentiment analysis. I bet you I can pull it off, or triple your money back … ;)<br />
+      <br /><li>We used to call this "article spinning," now it's called "AI Journalism." By the end of next year <strong>you won't be able to tell the difference between AI vs. Human blogging</strong>. And Jonny can spin-to-voice, too. See above.<br />
+      <br /><li>Check out what Amazon Global Advertising honcho Dan Wright (no twitter) says about <a href="https://www.marketingweek.com/amazon-reveals-advertising/">"voice advertising" inside Alexa</a> and how stoked they are on it.<br />
+      <br /><li>BTW, the <a href="https://reinvent.awsevents.com/">AWS re:Invent 2020 design language</a> is full of hot pink on black, candy gradient buttons, and warping animated <a href="https://www.google.com/search?source=univ&tbm=isch&q=1970s+graphic+design+geometric+artist&sa=X&ved=2ahUKEwjFr4qDxO_sAhVLop4KHZHcAZIQ7Al6BAgFEFA&biw=1440&bih=799">1970s geometric midcentury motifs</a>, WTF? … looks cool though. :)<br />
+      <br /><li>On another note, I'm learning <a href="https://storybook.js.org/">Storybook</a> in order to get better at designing <em>resuable UI components</em> and data visualizations.
       <small><br /><br /></small><li>I'm getting better at <strong>screen recording</strong> for creating software explainer videos.
-      <small><br /><br /></small><li>I've written a tutorial on creating explainer GIFs from screen-capture sources, but I'm not sure where to publish it right now! … Medium?
+      <small><br /><br /></small><li>I've written a tutorial on a good workflow for creating explainer GIFs from screen-capture sources, but I'm not sure where to publish it right now! … Medium? … PS for MacOS: I'm liking <a href="https://xnipapp.com/">xnip</a> and <a href="https://getkap.co/">kap</a>.
       <small><br /><br /></small><li>Also iterating on a slide deck for a workshop I'm leading for <a href="https://chicktech.org">ChickTech</a>:  
       <small><br /><br /></small><ul type="circle">
       <li>Following Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format to iterate on my lesson plan & determine the best way to teach Markdown to high school students.
-      <li>Customizing <a href="https://revealjs.com">reveal.js</a> — the awesome open-source presentation app by <a href="https://hakim.se">Hakim El</a>.
-      <li>Testing out some features at <a href="https://ludus.one">Ludus</a> — an impressive presentation app.
+      <li>Customizing <a href="https://revealjs.com">reveal.js</a> — an awesome open-source presentation app</a>.
+      <li>Testing out some features at <a href="https://ludus.one">Ludus</a> — another impressive presentation app.
       </ul>
-      <br /><li>Studying for the Google Cloud Developer certification. I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for studying. You can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it from this gist</a>.
-      <small><br /><br /></small><li>Contributing programming to <a href="https://github.com/hikikones/Lazycard">Lazycard</a> — a cool little React / Electron app for flashcards.
-      <small><br /><br /></small><li>Working on my ImageScrounge MVP. ImageScrounge is a little desktop app I'm making. Its main feature enables previewing multiple images simultaneously at their natural dimensions — as opposed to images being rendered into thumbnails, or constrained by a preview app window.
-      <small><br /><br /></small><li>Trying to find the bigger levers. I've been skilling up on tactics lately, but after this last sprint I feel like I need to back out and focus more on strategy.
+      <br /><li><strike>Studying for the Google Cloud Developer certification</strike> I punted on this, I'm just going to use the their products and Sñâck Ovërflōōōw. I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for studying GCP, if you care — you can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">DL here</a>.
+      <small><br /><br /></small><li>Contributing programming to <a href="https://github.com/hikikones/Lazycard">Lazycard</a> — a cool little React / Electron app for flashcards. I gotta put tooltips on there, or my users gonna be like duh. 
+      <small><br /><br /></small><li>Working on my ImageScrounge MVP. ImageScrounge is a little desktop app I'm making. It currently works perfectly to scratch my own itch. I'm writing up the PR&nbsp;FAQ.
+      <small><br /><br /></small><li>Perhaps more importantly, I'm trying to find the bigger levers. I've been skilling up on tactics lately, but after this last sprint I feel like I need to back out and focus more on strategy. Thanks for stopping by.
       </ul>
       </td>
       <td style="padding: 0; margin: 0">
