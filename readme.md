@@ -31,9 +31,10 @@
       <br /><li>On another note, I'm learning <a href="https://storybook.js.org/">Storybook</a> in order to get better at designing <em>resuable UI components</em> and data visualizations.
       <small><br /><br /></small><li>I'm getting better at <strong>screen recording</strong> for creating software explainer videos.
       <small><br /><br /></small><li>I've written a tutorial on a good workflow for creating explainer GIFs from screen-capture sources, but I'm not sure where to publish it right now! … Medium? … PS: for MacOS: I'm liking <a href="https://xnipapp.com/">xnip</a> and <a href="https://getkap.co/">kap</a>. Almost forgot <a href="https://gist.github.com/rowe-morehouse/33e8fa9575a42268f44dc16f2980f3c6">FFMpeg</a>,  I'm loving it.
-      <small><br /><br /></small><li>Also iterating on a slide deck for a workshop I'm leading for <a href="https://chicktech.org">ChickTech</a>:  
+      <small><br /><br /></small><li>✨✨ Also iterating on a slide deck for <strong>a workshop I'm leading for <a href="https://chicktech.org">ChickTech</a></strong>:  
       <small><br /><br /></small><ul type="circle">
-      <li>Following Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format to iterate on my lesson plan & determine the best way to teach Markdown to high school students.
+      <li>Teaching at ChickTech is my main volunteer activity. 
+      <li>Right now I'm following Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format to iterate on my lesson plan & determine the best way to teach Markdown to high school students.
       <li>Customizing <a href="https://revealjs.com">reveal.js</a> — an awesome open-source presentation app</a>.
       <li>Testing out some features at <a href="https://ludus.one">Ludus</a> — another impressive presentation app.
       </ul>
