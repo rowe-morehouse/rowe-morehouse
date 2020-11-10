@@ -1,4 +1,4 @@
-<h1> 👋 Hi, thanks for stopping by.</h1>
+<h1> 👋 Hi, thanks for stopping by. This is my blog.</h1>
 <div align="">
  <table width="100%" border="0" cellspacing="0" cellpadding="5">
     <tr>
@@ -12,7 +12,8 @@
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>
         </p>
-      <h3>&nbsp; Here's what I'm up to lately:</h3>
+        <small><em>NOVEMBER, 2020</em></small>
+      <h3>&nbsp;Here's what I'm up to lately:</h3>
       <ul>
       <li>Iterating on <a href="https://swayze.ai/">Swayze</a> — my Facebook Messenger chatbot <a href="https://wit.ai">built with Wit AI</a>. I've been neglecting him. Swayze needs some love. :)
       <small><br /><br /></small><li>Made a list of over 12,000 keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>. I'm using it for copywriting.
@@ -25,7 +26,7 @@
       <br /><li>Oh yah, <a href="https://www.w3.org/TR/speech-synthesis/">SSML</a>. I'm railing your webinar and feeding it to <a href="https://cloud.google.com/speech-to-text">GCP speech-to-text</a>, then I make you speak back in the voice I want you to, with my SSML inflections and my fun sound effects courtesy of <a href="https://developer.amazon.com/en-US/docs/alexa/custom-skills/ask-soundlibrary.html">Amazon Alexa Skills Kit Sound Library</a>. A new way of repurposing content, basically. Your content. 😈<br/ >
       <br /><li>I want to try to do this at scale with services like <a href="https://contentyze.com">Contentyze</a> and <a href="https://petacrunch.com/">PetaCrunch</a>.<br />
       <br /><li>How about <strong>I publish one hundred (100) AI-authored articles a day</strong> based on flywheel feedback from what users are responding to — both in trad analytics and sentiment analysis. I bet you I can pull it off, or triple your money back … ;)<br />
-      <br /><li>We used to call this "article spinning," now it's called "AI Journalism." By the end of next year <strong>you won't be able to tell the difference between AI vs. Human blogging</strong>. And Jonny can spin-to-voice, too. See above.<br />
+      <br /><li>We used to call this "article spinning," now it's called "AI Journalism." By the end of next year <strong>you won't be able to tell the difference between AI vs. Human blogging</strong><br />
       <br /><li>Check out what Amazon Global Advertising honcho Dan Wright (no twitter) says about <a href="https://www.marketingweek.com/amazon-reveals-advertising/">"voice advertising" inside Alexa</a> and how stoked they are on it.<br />
       <br /><li>BTW, the <a href="https://reinvent.awsevents.com/">AWS re:Invent 2020 design language</a> is full of hot-pink on black, candy gradient buttons, and warping animated <a href="https://www.google.com/search?source=univ&tbm=isch&q=1970s+graphic+design+geometric+artist&sa=X&ved=2ahUKEwjFr4qDxO_sAhVLop4KHZHcAZIQ7Al6BAgFEFA&biw=1440&bih=799">1970s geometric midcentury motifs</a>, WTF? … looks cool though. :)<br />
       <br /><li>On another note, I'm learning <a href="https://storybook.js.org/">Storybook</a> in order to get better at designing <em>resuable UI components</em> and data visualizations.
@@ -38,7 +39,7 @@
       <li>Customizing <a href="https://revealjs.com">reveal.js</a> — an awesome open-source presentation app</a>.
       <li>Testing out some features at <a href="https://ludus.one">Ludus</a> — another impressive presentation app.
       </ul>
-      <br /><li><strike>Studying for the Google Cloud Developer certification</strike> I punted on this, I'm just going to use their products and Sñââck Ovërflōōw. I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for studying GCP, if you care — you can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">DL here</a>.
+      <br /><li><strike>Studying for the Google Cloud Developer certification</strike> I punted on this, I'm just going to use their products and the free Qwiklabs tuts. I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for studying GCP, if you care — you can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">DL here</a>.
       <small><br /><br /></small><li>Contributing programming to <a href="https://github.com/hikikones/Lazycard">Lazycard</a> — a cool little React / Electron app for flashcards. I gotta put tooltips on there, or my users gonna be like duh. 
       <small><br /><br /></small><li>Working on my ImageScrounge MVP. ImageScrounge is a little desktop app I'm making. It currently works perfectly to scratch my own itch. I'm writing up the PR&nbsp;FAQ.
       <small><br /><br /></small><li>Perhaps more importantly, I'm trying to find the bigger levers. I've been skilling up on tactics lately, but after this last sprint I feel like I need to back out and focus more on strategy. Thanks for stopping by.
