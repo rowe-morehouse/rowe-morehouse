@@ -26,7 +26,7 @@
         <hr />
       </div> -->
 
-      … we'll see how it goes. :)
+      … we'll see how it goes.
 
       <h3>MORE:</h3>
 
