@@ -19,7 +19,7 @@
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/implants.png" width=44%><br />
         </div> -->
          … I had <strong>two titanium discs implanted in my neck</strong> and my right hand freakin' kills and is numb due to neuropathic radiculopathy. I can type, but I can barely write with a ballpoint pen.  
-        <h3>SO …</h3> <strong>I am trying something new</strong> that will allow me to compute while exercising my motor skills:
+        <h3>SO …</h3> <strong>I am trying something new</strong> that will allow me to compute while exercising my motor skills:<br /><br />
 
 <!--       <div align="center">
         <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/chromebook.png" width=80%><br />
@@ -29,7 +29,7 @@
 <!--       … we'll see how it goes.
  -->
 
-      <h3>MORE:</h3>
+    <h3>MORE:</h3>
 
       <li>Check out my <strong><a href="https://docs.google.com/spreadsheets/d/1F-uq6lqjr7ZSqphSb8LyPb7UPPisIT0SrOYc8IuE5Ac/edit?usp=sharing">Big List of Dark Patterns</a></strong> (google sheet) — with copywriting examples! — and offending URLs that demonstate the patterns! … Or if you're in a hurry, here's <a href="https://www.darkpatterns.org/types-of-dark-pattern">the TL;DR on Dark Patterns</a>. GO AHEAD & MAKE A COPY FOR YOURSELF, TOUGH GUY. 😜
       <small><br /><br /></small><li>I made a list of over 12,000 keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out ⇨ <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>. I'm using it for copywriting. MAKE A COPY FOR YOURSELF. ✨ 
