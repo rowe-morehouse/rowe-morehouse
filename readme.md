@@ -10,26 +10,27 @@
           <a href="https://medium.com/@rowemore"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
           </a> &nbsp;
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
-          </a>
-        </p>MARCH, 2021</em></small>
+          </a>  
+        </p>
+      <small><em>MARCH, 2021</em></small>
       <h3>&nbsp;Here's what I'm up to lately:</h3>
       <ul>
       <li> Slice, cuttin' choppin' …
-<!--         <div align="center">
+        <div align="center">
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/implants.png" width=44%><br />
-        </div> -->
+        </div>
          … I had <strong>two titanium discs implanted in my neck</strong> and my right hand freakin' kills and is numb due to neuropathic radiculopathy. I can type, but I can barely write with a ballpoint pen.  
         <h3>SO …</h3>
 
-<!--         <strong>I am trying something new</strong> that will allow me to compute while exercising my motor skills:<br /><br /> -->
+        <strong>I am trying something new</strong> that will allow me to compute while exercising my motor skills:<br /><br />
 
-<!--       <div align="center">
+      <div align="center">
         <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/chromebook.png" width=80%><br />
         <hr />
-      </div> -->
+      </div>
 
-<!--       … we'll see how it goes.
- -->
+      … we'll see how it goes.
+
 
 <h3>MORE:</h3>
 
@@ -45,7 +46,7 @@
       <li><strong>Participating in Facebook's Wit.ai Hackathon</strong> is what sent me down this AI path. I've also been working with <a href="https://cloud.google.com/dialogflow/docs">Dialog Flow</a>, and I've got the basic codebase set up for porting Swayze into an <a href="https://developer.amazon.com/en-US/docs/alexa/custom-skills/host-a-custom-skill-as-an-aws-lambda-function.html">Amazon Alexa Skill</a>.
       </ul>
       <br /><li>Oh yah, <a href="https://www.w3.org/TR/speech-synthesis/">SSML</a>. I'm audio recording the dialogue (speech) from free webinars / tutorials / interviews and then feeding it to <a href="https://cloud.google.com/speech-to-text">GCP speech-to-text</a>.<br />
-      <br />Then <strong>I make it speak back</strong> to you in the best Google Voice — with my instinctual SSML voice inflection markup and my <strong>fun sound effects</strong> courtesy of <a href="https://developer.amazon.com/en-US/docs/alexa/custom-skills/ask-soundlibrary.html">Amazon Alexa Skills Kit Sound Library</a>. In my mind, this is a new way of repurposing content.<br /><br /> This is part of my <strong>ongoing obsession with audio recording</strong> and <strong>speech editing</strong>.<br />  
+      <br />Then <strong>I make it speak back</strong> to you in a Google Voice — with my instinctual SSML voice inflection markup and my <strong>fun sound effects</strong> courtesy of <a href="https://developer.amazon.com/en-US/docs/alexa/custom-skills/ask-soundlibrary.html">Amazon Alexa Skills Kit Sound Library</a>. In my mind, this is a new way of repurposing content.<br /><br /> This is part of my <strong>ongoing obsession with audio recording</strong> and <strong>speech editing</strong>.<br />  
       <br /><li>I want to try to do this type of content repurposing at scale with services like <a href="https://contentyze.com">Contentyze</a> and <a href="https://anyword.com/">Anyword</a>. 👀<br />
       <br /><li>ALSO I'M DOING stuff with <a href="https://tailwindcss.com/">Tailwind CSS</a> — just like everyone else is. If you want to know the original people behind Utility-Based CSS it was <a href="https://twitter.com/mrmrs_">@mrmrs_</a> and <a href="https://twitter.com/jxnblk">@jxnblk</a> … or at least those are the dudes I've been following / copying from for years related to cutting-edge CSS stuff.<br />
       <br /><li><strong>DESIGN THOUGHTS</strong>: the <a href="https://reinvent.awsevents.com/">AWS re:Invent 2020 design language</a> is full of hot-pink on black, candy gradient buttons, and warping animated <a href="https://www.google.com/search?source=univ&tbm=isch&q=1970s+graphic+design+geometric+artist&sa=X&ved=2ahUKEwjFr4qDxO_sAhVLop4KHZHcAZIQ7Al6BAgFEFA&biw=1440&bih=799">1970s geometric midcentury motifs</a>. Fresh.
@@ -57,7 +58,7 @@
       </ul>
       <br /><li><strike>I've been studying for the Google Cloud Developer certification</strike> … Instead of doing that I am working on becoming <strong>a Google Developer Expert</strong> — to grow my <a href="https://twitter.com/search?q=%23DevRel">#DevRel</a> skills. For GCP stuff I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for you. If you care, you can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it here</a>.
       <small><br /><br /></small><li>I'm contributing programming to <a href="https://github.com/hikikones/Lazycard">Lazycard</a> — a cool little <strong>React / Electron app</strong> for flashcards.
-      <small><br /><br /></small><li>I've completed my <strong>ImageScrounge</strong> MVP. ImageScrounge is a little desktop app I'm making. It currently works perfectly to scratch my own itch. I'm writing up the PR&nbsp;FAQ. It's in PERL though. I'm gonna have some buddies look at it and see where we can take it / or what we might port it to.
+      <small><br /><br /></small><li>I've completed my <strong>ImageScrounge</strong> MVP. ImageScrounge is a little desktop app I'm making. It currently works perfectly to scratch my own itch. I'm writing up <strong>the PR&nbsp;FAQ</strong> and I'm gonna have some buddies look at it and see what we might port it to, or where we can take it.
       <small><br /><br /></small><li>That's what's up!
       </ul>
       </td>
