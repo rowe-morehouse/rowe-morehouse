@@ -53,10 +53,10 @@
       <small><br /><br /></small><ul type="circle">
       <li><strong>Teaching at ChickTech</strong> is <ins>my main volunteer activity</ins>, for three (3) years now. 
       <li>Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format was a great inspiration for me.
-      <li>Customizing <a href="https://revealjs.com">reveal.js</a> — an awesome open-source presentation app</a> — and using <a href="https://ludus.one">Ludus</a> — another impressive design-driven presentation app — was a great experience; and I think the students got a lot out of it.
+      <li>Customizing <a href="https://ludus.one">Ludus</a>, <a href="https://shwr.me/">Shower</a>, and <a href="https://revealjs.com">reveal.js</a> was a great experience for me, and I think the students got a lot out of my presentation. 
       </ul>
       <br /><li><strike>I've been studying for the Google Cloud Developer certification</strike> … Instead of doing that I am working on becoming <strong>a Google Developer Expert</strong> — to grow my <a href="https://twitter.com/search?q=%23DevRel">#DevRel</a> skills. For GCP stuff I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for you. If you care, you can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it here</a>.
-      <small><br /><br /></small><li>I'm contributing programming to <a href="https://github.com/hikikones/Lazycard">Lazycard</a> — a cool little <strong>React / Electron app</strong> for flashcards.
+      <small><br /><br /></small><li>I'm contributing programming to <a href="https://github.com/hikikones/Lazycard">Lazycard</a> — a cool little <strong>React / Electron app</strong> for making flashcards.
       <small><br /><br /></small><li>I've completed my <strong>ImageScrounge</strong> MVP. ImageScrounge is a little desktop app I'm making. It currently works perfectly to scratch my own itch. I'm writing up <strong>the PR&nbsp;FAQ</strong> and I'm gonna have some buddies help me improve it.
       <small><br /><br /></small><li>That's what's up!
       </ul>
