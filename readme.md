@@ -75,5 +75,3 @@
 
 <hr />
 
-
-<img alt="Hit Counter" src="https://hitcount.io/api/ram0faYf5?initial=99&background=F6F9FC&color=2FB380&&size=10.5" />
