@@ -19,7 +19,7 @@
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/implants.png" width=44%><br />
         </div> -->
          … I had <strong>two titanium discs implanted in my neck</strong> and my right hand freakin' kills and is numb due to neuropathic radiculopathy. I can type, but I can barely write with a ballpoint pen.  
-        <h3>SO …</h3> <strong>I am trying something new</strong> that will allow me to compute while exercising my motor skills:<br /><br />
+        <h3>SO …</h3> <strong>I am trying something new</strong> that will allow me to compute while exercising my motor skills:
 
 <!--       <div align="center">
         <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/chromebook.png" width=80%><br />
@@ -28,7 +28,6 @@
 
 <!--       … we'll see how it goes.
  -->
-      </li>
 
       <h3>MORE:</h3>
 
