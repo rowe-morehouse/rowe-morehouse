@@ -23,13 +23,12 @@
       <h3>SO …</h3>
 
 <strong>I am trying something new</strong> that will allow me to compute while exercising my motor skills:<br /><br />
+<div align="center">
+<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/chromebook.png" width=80%><br />
+<hr />
+</div>
 
-      <div align="center">
-      <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/chromebook.png" width=80%><br />
-      <hr />
-      </div>
-
-      … we'll see how it goes.
+… we'll see how it goes.
 
 
 <h3>MORE:</h3>
