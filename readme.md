@@ -38,7 +38,7 @@
       <small><br /><br /></small><li>I'm experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like <a href="https://www.kovcomp.co.uk/wordstat/LIWC.html">The LICW 2015</a> and OpenLexicon, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
       <small><br /><br /></small>
       <ul type="circle">
-      <li><strong>My goal with this whole Machine Learning / Artificial Intelligence</strong> angle-of-inquiry is to learn to 【1】 write more engaging copy, 【2】 <ins>develop more empathetic products</ins>, and 3】 design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's fun to spin-up the AI stuff on Google Cloud.
+      <li><strong>My goal with this whole Machine Learning / Artificial Intelligence</strong> angle-of-inquiry is to learn to【1】write more engaging copy,【2】<ins>develop more empathetic products</ins>, and【3】design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's fun to spin-up the AI stuff on Google Cloud.
       <small><br /><br /></small>
       <li>"<a href="https://swayze.ai/">Swayze</a>" — <strong>my Facebook Messenger chatbot</strong> <a href="https://wit.ai">built with Wit AI</a> — is still asleep. BUT WAIT!! … with great fortune, Facebook (The best app of all time, fight me) has finally biz verified my corp. I'm looking forward to developing more apps on their platform.
       <small><br /><br /></small>
@@ -51,13 +51,13 @@
       <br /><li><strong>DESIGN THOUGHTS</strong>: the <a href="https://reinvent.awsevents.com/">AWS re:Invent 2020 design language</a> is full of hot-pink on black, candy gradient buttons, and warping animated <a href="https://www.google.com/search?source=univ&tbm=isch&q=1970s+graphic+design+geometric+artist&sa=X&ved=2ahUKEwjFr4qDxO_sAhVLop4KHZHcAZIQ7Al6BAgFEFA&biw=1440&bih=799">1970s geometric midcentury motifs</a>. Fresh.
       <small><br /><br /></small><li>✨✨ My November 2020 <a href="https://chicktech.org">ChickTech Workshop</a></strong> TEACHING WEB PROGRAMMING skills to HIGH SCHOOL STUDENTS went really well.   
       <small><br /><br /></small><ul type="circle">
-      <li><strong>Teaching at ChickTech</strong> is <mark style="background: #FCF8E3!important">my main volunteer activity</mark>, for three (3) years now. 
+      <li><strong>Teaching at ChickTech</strong> is <ins>my main volunteer activity</ins>, for three (3) years now. 
       <li>Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format was a great inspiration for me.
       <li>Customizing <a href="https://revealjs.com">reveal.js</a> — an awesome open-source presentation app</a> — and using <a href="https://ludus.one">Ludus</a> — another impressive design-driven presentation app — was a great experience; and I think the students got a lot out of it.
       </ul>
       <br /><li><strike>I've been studying for the Google Cloud Developer certification</strike> … Instead of doing that I am working on becoming <strong>a Google Developer Expert</strong> — to grow my <a href="https://twitter.com/search?q=%23DevRel">#DevRel</a> skills. For GCP stuff I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for you. If you care, you can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it here</a>.
       <small><br /><br /></small><li>I'm contributing programming to <a href="https://github.com/hikikones/Lazycard">Lazycard</a> — a cool little <strong>React / Electron app</strong> for flashcards.
-      <small><br /><br /></small><li>I've completed my <strong>ImageScrounge</strong> MVP. ImageScrounge is a little desktop app I'm making. It currently works perfectly to scratch my own itch. I'm writing up <strong>the PR&nbsp;FAQ</strong> and I'm gonna have some buddies look at it and see what we might port it to, or where we can take it.
+      <small><br /><br /></small><li>I've completed my <strong>ImageScrounge</strong> MVP. ImageScrounge is a little desktop app I'm making. It currently works perfectly to scratch my own itch. I'm writing up <strong>the PR&nbsp;FAQ</strong> and I'm gonna have some buddies help me improve it.
       <small><br /><br /></small><li>That's what's up!
       </ul>
       </td>
