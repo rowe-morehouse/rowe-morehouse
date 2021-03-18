@@ -1,6 +1,6 @@
 <h1> 👋 Hi, thanks for stopping by. This is my blog.</h1>
 <div align="">
- <table width="100%" border="0" cellspacing="0" cellpadding="2">
+ <table width="100%" border="0" cellspacing="0" cellpadding="3">
     <tr>
       <td style="padding: 0; margin: 0">
         <p>
@@ -38,7 +38,7 @@
       <small><br /><br /></small><li>I'm experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like <a href="https://www.kovcomp.co.uk/wordstat/LIWC.html">The LICW 2015</a> and OpenLexicon, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
       <small><br /><br /></small>
       <ul type="circle">
-      <li><strong>My goal with this whole Machine Learning / Artificial Intelligence</strong> angle-of-inquiry is to learn to 1) write more engaging copy, 2) <mark style="background: #FCF8E3!important">develop more empathetic products</mark>, and 3) design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's fun to spin-up the AI stuff on Google Cloud.
+      <li><strong>My goal with this whole Machine Learning / Artificial Intelligence</strong> angle-of-inquiry is to learn to 【1】 write more engaging copy, 【2】 <ins>develop more empathetic products</ins>, and 3】 design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's fun to spin-up the AI stuff on Google Cloud.
       <small><br /><br /></small>
       <li>"<a href="https://swayze.ai/">Swayze</a>" — <strong>my Facebook Messenger chatbot</strong> <a href="https://wit.ai">built with Wit AI</a> — is still asleep. BUT WAIT!! … with great fortune, Facebook (The best app of all time, fight me) has finally biz verified my corp. I'm looking forward to developing more apps on their platform.
       <small><br /><br /></small>
