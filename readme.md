@@ -63,7 +63,7 @@
       </td>
       <td style="padding: 0; margin: 0">
         <div align="center">
-          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif"><br />
+          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width=80%><br />
          <i>"… at the intersection of &nbsp;&nbsp;design&nbsp;and&nbsp;engineering."&nbsp;&nbsp;&nbsp;&nbsp;</i>
         </div>
       </td>
