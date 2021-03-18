@@ -26,8 +26,8 @@
         <hr />
       </div> -->
 
-      … we'll see how it goes.
-
+<!--       … we'll see how it goes.
+ -->
       <h3>MORE:</h3>
 
       <li>Check out my <strong><a href="https://docs.google.com/spreadsheets/d/1F-uq6lqjr7ZSqphSb8LyPb7UPPisIT0SrOYc8IuE5Ac/edit?usp=sharing">Big List of Dark Patterns</a></strong> (google sheet) — with copywriting examples! — and offending URLs that demonstate the patterns! … Or if you're in a hurry, here's <a href="https://www.darkpatterns.org/types-of-dark-pattern">the TL;DR on Dark Patterns</a>. GO AHEAD & MAKE A COPY FOR YOURSELF, TOUGH GUY. 😜
