@@ -1,8 +1,8 @@
 <h1> 👋 Hi, thanks for stopping by. This is my blog.</h1>
 <div align="">
- <table width="100%" border="0" cellspacing="0" cellpadding="5">
+ <table width="100%" border="0" cellspacing="0" cellpadding="4">
     <tr>
-      <td>
+      <td style="padding: 0; margin: 0">>
         <p>
            &nbsp; <a href="https://www.twitter.com/rowemore"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
           </a> &nbsp;
@@ -63,7 +63,7 @@
       </td>
       <td style="padding: 0; margin: 0">
         <div align="center">
-          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width=80%><br />
+          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif"><br />
          <i>"… at the intersection of &nbsp;&nbsp;design&nbsp;and&nbsp;engineering."&nbsp;&nbsp;&nbsp;&nbsp;</i>
         </div>
       </td>
