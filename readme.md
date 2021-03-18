@@ -4,7 +4,7 @@
     <tr>
       <td style="padding: 0; margin: 0">
         <p>
-           &nbsp; <a href="https://www.twitter.com/rowemore"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=@rowemore&logoColor=white" height=25>
+           &nbsp; <a href="https://www.twitter.com/rowemore"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
           </a> &nbsp;
           <a href="https://www.linkedin.com/in/rowe-morehouse"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> &nbsp;
           <a href="https://medium.com/@rowemore"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
@@ -17,14 +17,14 @@
       <ul>
       <li> Slice, cuttin' choppin' …
         <div align="center">
-          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/implants.png" width=44%><br />
+          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/implants.png" width=50%><br />
         </div>
         … I had <strong>two titanium discs implanted in my neck</strong> and my right hand freakin' kills and is numb due to neuropathic radiculopathy. I can type, but I can barely write with a ballpoint pen.  
       <h3>SO …</h3>
 
 <strong>I am trying something new</strong> that will allow me to compute while exercising my motor skills:<br /><br />
 <div align="center">
-<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/chromebook.png" width=80%><br />
+<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/chromebook.png" width=90%><br />
 <hr />
 </div>
 
