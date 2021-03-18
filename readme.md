@@ -31,9 +31,9 @@
 <!--       … we'll see how it goes.
  -->
 
-    <h3>MORE:</h3>
+<h3>MORE:</h3>
 
-      <li>Check out my <strong><a href="https://docs.google.com/spreadsheets/d/1F-uq6lqjr7ZSqphSb8LyPb7UPPisIT0SrOYc8IuE5Ac/edit?usp=sharing">Big List of Dark Patterns</a></strong> (google sheet) — with copywriting examples! — and offending URLs that demonstate the patterns! … Or if you're in a hurry, here's <a href="https://www.darkpatterns.org/types-of-dark-pattern">the TL;DR on Dark Patterns</a>. GO AHEAD & MAKE A COPY FOR YOURSELF, TOUGH GUY. 😜
+<li>Check out my <strong><a href="https://docs.google.com/spreadsheets/d/1F-uq6lqjr7ZSqphSb8LyPb7UPPisIT0SrOYc8IuE5Ac/edit?usp=sharing">Big List of Dark Patterns</a></strong> (google sheet) — with copywriting examples! — and offending URLs that demonstate the patterns! … Or if you're in a hurry, here's <a href="https://www.darkpatterns.org/types-of-dark-pattern">the TL;DR on Dark Patterns</a>. GO AHEAD & MAKE A COPY FOR YOURSELF, TOUGH GUY. 😜
       <small><br /><br /></small><li>I made a list of over 12,000 keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out ⇨ <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>. I'm using it for copywriting. MAKE A COPY FOR YOURSELF. ✨ 
       <small><br /><br /></small><li>I'm experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like <a href="https://www.kovcomp.co.uk/wordstat/LIWC.html">The LICW 2015</a> and OpenLexicon, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
       <small><br /><br /></small>
