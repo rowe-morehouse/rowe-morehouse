@@ -15,9 +15,9 @@
       <h3>&nbsp;Here's what I'm up to lately:</h3>
       <ul>
       <li> Slice, cuttin' choppin' …
-        <div align="center">
+<!--         <div align="center">
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/implants.png" width=44%><br />
-        </div>
+        </div> -->
          … I had <strong>two titanium discs implanted in my neck</strong> and my right hand freakin' kills and is numb due to neuropathic radiculopathy. I can type, but I can barely write with a ballpoint pen.  
         <h3>SO …</h3> <strong>I am trying something new</strong> that will allow me to compute while <u>exercising my motor skills</u>:<br /><br />
 
