@@ -1,3 +1,6 @@
+<meta property="og:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
+<meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
+
 <h1> 👋 Hi, thanks for stopping by. This is my blog.</h1>
 <div align="">
  <table width="100%" border="0" cellspacing="0" cellpadding="3">
