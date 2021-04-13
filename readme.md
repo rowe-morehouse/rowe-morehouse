@@ -76,10 +76,11 @@
 </div>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/) &nbsp; ![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat)
-
+[![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/)
 
 ### <a href="https://twitter.com/rowemore">Hit me on twitter</a> if you want to chat. ✌️
 
 <hr />
+![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat)
+
 
