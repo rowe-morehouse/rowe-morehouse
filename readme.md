@@ -78,8 +78,8 @@
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/)
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-![rowe-morehouse's github stats](https://github-readme-stats.vercel.app/api?username=rowe-morehouse&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
+<!-- Profile View Count and GitStats -->
+![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat)
 
 
 ### <a href="https://twitter.com/rowemore">Hit me on twitter</a> if you want to chat. ✌️
