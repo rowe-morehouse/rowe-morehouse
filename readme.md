@@ -59,7 +59,7 @@
 <li>Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format was a great inspiration for me.
 <li>Customizing <a href="https://ludus.one">Ludus</a>, <a href="https://shwr.me/">Shower</a>, and <a href="https://revealjs.com">reveal.js</a> was a great experience for me, and I think the students got a lot out of my presentation. 
 </ul>
-<br /><li><strike>I've been studying for the Google Cloud Developer certification</strike> … Instead of doing that I am working on becoming <strong>a Google Developer Expert</strong> — to grow my <a href="https://twitter.com/search?q=%23DevRel">#DevRel</a> skills. For GCP stuff I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for you. If you care, you can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it here</a>.
+<br /><li>I am working on becoming <strong>a Google Developer Expert</strong> — to grow my <a href="https://twitter.com/search?q=%23DevRel">#DevRel</a> skills. For GCP stuff I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for you. If you care, you can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it here</a>.
 <small><br /><br /></small><li>I'm contributing programming to <a href="https://github.com/hikikones/Lazycard">Lazycard</a> — a cool little <strong>React / Electron app</strong> for making flashcards.
 <small><br /><br /></small><li>I've completed my <strong>ImageScrounge</strong> MVP. ImageScrounge is a little desktop app I'm making. It currently works perfectly to scratch my own itch. I'm writing up <strong>the PR&nbsp;FAQ</strong> and I'm gonna have some buddies help me improve it.
 <small><br /><br /></small><li>That's what's up!
@@ -76,11 +76,7 @@
 </div>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/Vasil%20Vanchuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/)
-
-<!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat)
-[![Github](https://img.shields.io/badge/-rowe-morehouse-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/rowe-morehouse)
+[![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![rowe-morehouse's github stats](https://github-readme-stats.vercel.app/api?username=rowe-morehouse&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
