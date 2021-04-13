@@ -75,6 +75,17 @@
 </table>
 </div>
 
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/Vasil%20Vanchuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/)
+
+<!-- Profile View Count and GitStats -->
+![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat)
+[![Github](https://img.shields.io/badge/-rowe-morehouse-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/rowe-morehouse)
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+![rowe-morehouse's github stats](https://github-readme-stats.vercel.app/api?username=rowe-morehouse&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
+
+
 ### <a href="https://twitter.com/rowemore">Hit me on twitter</a> if you want to chat. ✌️
 
 <hr />
