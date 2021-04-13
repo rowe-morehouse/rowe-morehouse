@@ -76,10 +76,7 @@
 </div>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/)
-
-<!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat)
+[![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/) ![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat)
 
 
 ### <a href="https://twitter.com/rowemore">Hit me on twitter</a> if you want to chat. ✌️
