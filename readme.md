@@ -54,12 +54,11 @@
 <small><br /><br /></small><li>✨✨ My <a href="https://chicktech.org">ChickTech Workshop</a> TEACHING WEB PROGRAMMING skills to HIGH SCHOOL STUDENTS went really well. I got good feedback from the students, and from the Executive Director.
 <small><br /><br /></small><ul type="circle">
 <li><strong>Teaching at ChickTech</strong> is <ins>my main volunteer activity</ins>, for three (3) years now. 
-<li>Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format was a great inspiration for me.
+<li>Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format was a great inspiration.
 <li>Designing with <a href="https://ludus.one">Ludus</a>, <a href="https://shwr.me/">Shower</a>, and <a href="https://revealjs.com">reveal.js</a> was fun. 
 </ul>
 <br /><li>I am working on becoming <strong>a Google Developer Expert</strong> — to grow my <a href="https://twitter.com/search?q=%23DevRel">#DevRel</a> skills. For GCP stuff I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for you. If you care, you can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it here</a>.
-<small><br /><br /></small><li>I'm contributing programming to <a href="https://github.com/hikikones/Lazycard">Lazycard</a> — a cool little <strong>React / Electron app</strong> for making flashcards.
-<small><br /><br /></small><li>I've completed my <strong>ImageScrounge</strong> MVP. ImageScrounge is a little desktop app I'm making. It currently works perfectly to scratch my own itch. I'm writing up <strong>the PR&nbsp;FAQ</strong> and I'm gonna have some buddies help me improve it.
+<small><br /><br /></small><li>I've completed my <strong>ImageScrounge</strong> MVP. ImageScrounge is a little desktop app I'em making. It currently works perfectly to scratch my own itch. I'm writing up <strong>the PR&nbsp;FAQ</strong> and I'm gonna have some buddies help me improve it.
 <small><br /><br /></small><li>That's what's up!
 </ul>
 </td>
