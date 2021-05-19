@@ -15,28 +15,16 @@
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>  
         </p>
-      <small><em>April, 2021</em></small>
+      <small><em>May, 2021</em></small>
       <h3>&nbsp;Here's what I'm up to lately:</h3>
       <ul>
       <li> Slice, cuttin' choppin' …
         <div align="center">
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/implants.png" width=50%><br />
         </div>
-        … I had <strong>two titanium discs implanted in my neck</strong> and my right hand freakin' kills and is numb due to neuropathic radiculopathy. I can type, but I can barely write with a ballpoint pen.  
-      <h3>SO …</h3>
-
-<strong>I am trying something new</strong> that will allow me to compute while exercising my motor skills:<br /><br />
-<div align="center">
-<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/chromebook.png" width=90%><br />
-<hr />
-</div>
-
-… we'll see how it goes.
-
-<h3>Here's what's cooking this month:</h3>
-
-<li>I'm kinda hooked on <a href="https://bitclout.com/u/rowemorehouse">BitClout</a>! … People are buying my Creator Coin (@rowemorehouse) in exchange for the <a href="https://www.mixcloud.com/Gods_of_the_New_Age/music-for-programming-vol-6/">original ambient music</a> I create & make available to the community. It might be just fad, but it's&nbsp;fun …
-<small><br /><br /></small><li>I'm studying for a <a href="https://www.qualtrics.com/">Qualtrics</a> certification and a cert called "IBM Enterprise Design Thinking." Both are super interesting. I'm also sudying <a href="https://developers.google.com/style/whats-new">technical writing</a>.
+        … I had <strong>two titanium discs implanted in my neck</strong> — WTF!
+<h3>ANYWAY, here's what's cooking this month:</h3>
+<li>I'm studying for a <a href="https://www.qualtrics.com/">Qualtrics</a> certification and a cert called "IBM Enterprise Design Thinking." Both are super interesting. I'm also sudying <a href="https://developers.google.com/style/whats-new">technical writing</a>.
 <small><br /><br /></small><li>Check out my <strong><a href="https://docs.google.com/spreadsheets/d/1F-uq6lqjr7ZSqphSb8LyPb7UPPisIT0SrOYc8IuE5Ac/edit?usp=sharing">Big List of Dark Patterns</a></strong> (google sheet) — with copywriting examples! — and offending URLs that demonstate the patterns! … Or if you're in a hurry, here's <a href="https://www.darkpatterns.org/types-of-dark-pattern">the TL;DR on Dark Patterns</a>. GO AHEAD & MAKE A COPY FOR YOURSELF, TOUGH GUY. 😜
 <small><br /><br /></small><li>I made a list of over 12,000 keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out ⇨ <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>. I'm using it for copywriting. MAKE A COPY FOR YOURSELF. ✨ 
 <small><br /><br /></small><li>I'm experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like <a href="https://www.kovcomp.co.uk/wordstat/LIWC.html">The LICW 2015</a> and OpenLexicon, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
