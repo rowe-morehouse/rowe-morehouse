@@ -22,9 +22,9 @@
         <div align="center">
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/implants.png" width=50%><br />
         </div>
-        … I had <strong>two titanium discs implanted in my neck</strong> — WTF!
+        … I had <strong>two titanium discs implanted in my neck</strong> — WTF! … too much Metallica.
 <h3>ANYWAY, here's what's cooking this month:</h3>
-<li>I'm all in on  <a href="https://www.deso.org/">$DESO</a> — a newish blockchain / token (Decentralized Social) that has so many possibilities. I'm kind of following the lead of my former coworker <a href="https://iworkedon.com/@mubashariqbal/projects/406-polygram">Mubashar Iqbal (Mubs)</a> who has always been way ahead of the curve.<small><br /><br /></small>
+<li>I'm all in on  <a href="https://www.deso.org/" target="new">$DESO</a> — a newish blockchain / token (Decentralized Social) that has so many possibilities. I'm kind of following the lead of my former coworker <a href="https://iworkedon.com/@mubashariqbal/projects/406-polygram" target="new2">Mubashar Iqbal (Mubs)</a> who has always been way ahead of the curve.<small><br /><br /></small>
 <li>I'm studying for a <a href="https://www.qualtrics.com/">Qualtrics</a> certification and a cert called "IBM Enterprise Design Thinking." Both are super interesting.
 <small><br /><br /></small>
 <li>I recently wrote a piece on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>.
