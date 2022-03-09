@@ -15,7 +15,7 @@
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>  
         </p>
-      <small><em>JANUARY, 2022</em></small>
+      <small><em>MARCH, 2022</em></small>
       <h3>&nbsp;🌱 Here's what I'm up to lately:</h3>
       <ul>
       <li> Slice, cuttin' choppin' …
@@ -27,7 +27,7 @@
 <li>I'm all in on  <a href="https://www.deso.org/" target="new">$DESO</a> — a newish blockchain / token (Decentralized Social) that has so many possibilities. I'm kind of following the lead of my former coworker <a href="https://iworkedon.com/@mubashariqbal/projects/406-polygram" target="new2">Mubashar Iqbal (Mubs)</a> who has always been way ahead of the curve.<small><br /><br /></small>
 <li>I'm studying for a <a href="https://www.qualtrics.com/">Qualtrics</a> certification and a cert called "IBM Enterprise Design Thinking." Both are super interesting.
 <small><br /><br /></small>
-<li>I recently wrote a piece on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>.
+<li>🔧 I recently <strong>wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. ◁ Check it out on Medium.
 <small><br /><br /></small><li>Marketers, check out my <a href="https://docs.google.com/spreadsheets/d/1F-uq6lqjr7ZSqphSb8LyPb7UPPisIT0SrOYc8IuE5Ac/edit?usp=sharing">Big List of Dark Patterns</a> (google sheet) — with copywriting examples! — and offending URLs that demonstate the patterns! … Or if you're in a hurry, here's <a href="https://www.darkpatterns.org/types-of-dark-pattern">the TL;DR on Dark Patterns</a>.
 <small><br /><br /></small><li>I made a list of over 12,000 keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out ⇨ <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>. I'm using it for copywriting. MAKE A COPY FOR YOURSELF. ✨ 
 <small><br /><br /></small><li>I'm experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like <a href="https://www.kovcomp.co.uk/wordstat/LIWC.html">The LICW 2015</a> and OpenLexicon, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
