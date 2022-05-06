@@ -1,7 +1,7 @@
 <meta property="og:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 <meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 
-<h1> 👋 Hi, thanks for stopping by. This is my blog.</h1>
+<h1> 👋 &nbsp; Hi, thanks for stopping by. This is my blog.</h1>
 <div align="">
  <table width="100%" border="0" cellspacing="0" cellpadding="3">
     <tr>
@@ -16,18 +16,18 @@
           </a>  
         </p>
       <small><em>MAY, 2022</em></small>
-      <h3>&nbsp;🌱 Here's what I'm up to lately:</h3>
+      <h3>&nbsp;🌱&nbsp; Here's what I'm up to lately:</h3>
       <ul>
       <li> Slice, cuttin' choppin' …
         <div align="center">
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/implants-pink.png" width=50%><br />
         </div>
         … I had <strong>two titanium discs implanted in my neck</strong> — WTF! … too much Metallica.
-<h3>NYWAY, here's what's cooking this month:</h3>
-<li>I'm all in on  <a href="https://www.deso.org/" target="new">$DESO</a> — a newish blockchain / token (Decentralized Social) that has so many possibilities. I'm kind of following the lead of my former coworker <a href="https://iworkedon.com/@mubashariqbal/projects/406-polygram" target="new2">Mubashar Iqbal (Mubs)</a> who has always been way ahead of the curve.<small><br /><br /></small>
-<li>I'm studying for a <a href="https://www.qualtrics.com/">Qualtrics</a> certification and a cert called "IBM Enterprise Design Thinking." Both are super interesting.
+<h3>ANYWAY, here's what's cooking this month:</h3>
+<li>I'm all in on  <a href="https://www.deso.org/" target="new">$DESO</a> — a newish blockchain / token (Decentralized Social) that has so many unique possibilities.<small><br /><br /></small>
+<li>🔧 ⁣ I recently <strong>wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. ◁ Check it out on Medium.
 <small><br /><br /></small>
-<li>🔧 I recently <strong>wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. ◁ Check it out on Medium.
+<li>I'm studying for a <a href="https://www.qualtrics.com/customer-experience/">Qualtrics</a> CX certification and finally getting around to the <a href="https://www.credly.com/org/facebook-blueprint/badge/meta-certified-marketing-science-professional">Meta Marketing Science Professional</a> cert.
 <small><br /><br /></small><li>Marketers, check out my <a href="https://docs.google.com/spreadsheets/d/1F-uq6lqjr7ZSqphSb8LyPb7UPPisIT0SrOYc8IuE5Ac/edit?usp=sharing">Big List of Dark Patterns</a> (google sheet) — with copywriting examples! — and offending URLs that demonstate the patterns! … Or if you're in a hurry, here's <a href="https://www.darkpatterns.org/types-of-dark-pattern">the TL;DR on Dark Patterns</a>.
 <small><br /><br /></small><li>I made a list of over 12,000 keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out ⇨ <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>. I'm using it for copywriting. MAKE A COPY FOR YOURSELF. ✨ 
 <small><br /><br /></small><li>I'm experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like <a href="https://www.kovcomp.co.uk/wordstat/LIWC.html">The LICW 2015</a> and OpenLexicon, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
@@ -35,13 +35,11 @@
 <ul type="circle">
 <li><strong>My goal with this whole Machine Learning / Artificial Intelligence</strong> angle-of-inquiry is to learn to【1】write more engaging copy,【2】<ins>develop more empathetic products</ins>, and【3】design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's fun to spin-up the AI stuff on Google Cloud.
 <small><br /><br /></small>
-<li>"<a href="https://swayze.ai/">Swayze</a>" — <strong>my Facebook Messenger chatbot</strong> <a href="https://wit.ai">built with Wit AI</a> — is still asleep. BUT WAIT!! … with great fortune, Facebook (The best app of all time, fight me) has finally biz verified my corp. I'm looking forward to developing more apps on their platform.
+<li>"<a href="https://swayze.ai/">Swayze</a>" — <strong>my Facebook Messenger chatbot</strong> <a href="https://wit.ai">built with Wit AI</a> — is still asleep. BUT WAIT!! … with great fortune, Facebook (Meta) has finally biz verified my corp. I'm looking forward to developing more apps on their platform.
 <small><br /><br /></small>
 <li><strong>Participating in Facebook's Wit.ai Hackathon</strong> is what sent me down this AI path. I've also been working with <a href="https://cloud.google.com/dialogflow/docs">Dialog Flow</a>, and I've got the basic codebase set up for porting Swayze into an <a href="https://developer.amazon.com/en-US/docs/alexa/custom-skills/host-a-custom-skill-as-an-aws-lambda-function.html">Amazon Alexa Skill</a>.
-</ul><br .>
-<li>I'm doing a lot of stuff with speech-to-text, text-to-speech, transcriptions, audio-for-video, and subtitles. This is part of my <strong>ongoing obsession with audio recording</strong> and <strong>speech editing</strong>.<br />  
-<br /><li>ALSO I'M DOING stuff with <a href="https://tailwindcss.com/">Tailwind CSS</a> — just like everyone else is. If you want to know the original people behind Utility-Based CSS it was <a href="https://twitter.com/mrmrs_">@mrmrs_</a> and <a href="https://twitter.com/jxnblk">@jxnblk</a> … or at least those are the dudes I've been following / copying from for years related to cutting-edge CSS stuff.<!-- <br />
-<br /><li><strong>DESIGN THOUGHTS</strong>: the <a href="https://reinvent.awsevents.com/">AWS re:Invent 2020 design language</a> is full of hot-pink on black, candy gradient buttons, and warping animated <a href="https://www.google.com/search?source=univ&tbm=isch&q=1970s+graphic+design+geometric+artist&sa=X&ved=2ahUKEwjFr4qDxO_sAhVLop4KHZHcAZIQ7Al6BAgFEFA&biw=1440&bih=799">1970s geometric midcentury motifs</a>. Fresh. -->
+</ul><br />
+<li>I'm doing a lot of stuff with speech-to-text, text-to-speech, transcriptions, audio-for-video, and subtitles. This is part of my <strong>ongoing obsession with audio recording</strong> and <strong>speech editing</strong>.
 <small><br /><br /></small><li>✨✨ My <a href="https://chicktech.org">ChickTech Workshop</a> TEACHING WEB PROGRAMMING skills to HIGH SCHOOL STUDENTS went really well. I got good feedback from the students, and from the Executive Director.
 <small><br /><br /></small><ul type="circle">
 <li><strong>Teaching at ChickTech</strong> is <ins>my main volunteer activity</ins>, for three (3) years now. 
