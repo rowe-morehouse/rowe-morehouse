@@ -15,7 +15,7 @@
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>  
         </p>
-      <small><em>MAY, 2022</em></small>
+      <small><em>July, 2022</em></small>
       <h3>&nbsp;🌱&nbsp; Here's what I'm up to lately:</h3>
       <ul>
       <li> Slice, cuttin' choppin' …
