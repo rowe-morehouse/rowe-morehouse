@@ -1,11 +1,9 @@
 <meta property="og:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 <meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 
-<h1> 👋 &nbsp; Hi, thanks for stopping by. This is my blog.</h1>
+<h1> Rowe Morehouse</h1>
+<h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Résumé ⇨ https://git.io/rowe</h2>
 <div align="">
- <table width="100%" border="0" cellspacing="0" cellpadding="3">
-    <tr>
-      <td style="padding: 0; margin: 0">
         <p>
            &nbsp; <a href="https://www.twitter.com/rowemore"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
           </a> &nbsp;
@@ -15,15 +13,17 @@
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>  
         </p>
-      <small><em>July, 2022</em></small>
+      <small><em>November, 2022</em></small>
       <h3>&nbsp;🌱&nbsp; Here's what I'm up to lately:</h3>
-      <ul>
-      <li> Slice, cuttin' choppin' …
-        <div align="center">
-          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/implants-orig.png" width=50%><br />
-        </div>
+  Slice, cuttin' choppin' …<br/><br/>
+          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/implants-orig.png" width=180px align=left><br /><br/>
         … I had <strong>two titanium discs implanted in my neck</strong> — WTF! … too much Metallica.
+ <BR CLEAR=all> 
+
 <h3>ANYWAY, here's what's cooking this month:</h3>
+
+<ul>
+
 <li>I'm maintaining an ever-growing <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="new">list of AI Writing Tools</a> for automatic content generation, idea recommendation, brainstorming, paraphrasing, summarizing, outlining, grammar check, tone check, context-based sales email customization, and more. Check out <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="new">the Gist</a>. 🤖<small><br /><br /></small>
 <li>All in on  <a href="https://www.deso.org/" target="new">$DESO</a>! — a newish blockchain / token (Decentralized Social) that has so many unique possibilities.<small><br /><br /></small>
 <li>🔧 ⁣ I recently <strong>wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. ◁ Check it out on Medium.
@@ -53,13 +53,10 @@
 </ul>
 </td>
 <td style="padding: 0; margin: 0">
-  <div align="center">
-    <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif"><br />
-   <i>"… at the intersection of &nbsp;&nbsp;design&nbsp;and&nbsp;engineering."&nbsp;&nbsp;&nbsp;&nbsp;</i>
+  <div align="left">
+    <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width=200px align=left><br />
+   <h2> Résumé ⇨ https://git.io/rowe</h2>
   </div>
-</td>
-</tr>
-</table>
 </div>
 
 <!-- Your badges -->
