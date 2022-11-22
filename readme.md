@@ -49,7 +49,11 @@
 </ul>
 <br /><li>… still working on becoming <strong>a Google Developer Expert</strong> — to grow my <a href="https://twitter.com/search?q=%23DevRel">#DevRel</a> skills. For GCP stuff I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for you. If you care, you can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it here</a>.
 <small><br /><br /></small><li>I've completed my <strong>ImageScrounge</strong> MVP. ImageScrounge is a little desktop app I'em making. It currently works perfectly to scratch my own itch. I'm writing up <strong>the PR&nbsp;FAQ</strong> and I'm gonna have some buddies help me improve it.
-<small><br /><br /></small><li>That's what's up!
+<small><br /><br /></small><li>
+Check out a comprehensive list of <strong>all of my <a href="https://rowe-morehouse.github.io/resume/uses/" alt="Rowe Morehouse · Software Tools">Software Tools</a></strong><i> — (dev tools, productivity, collaboration, audio, design, etc.)</i><small><br /><br /></small></li>
+        
+<li>That's what's up!</li>
+<small><br /><br /></small>
 </ul>
 </td>
 <td style="padding: 0; margin: 0">
