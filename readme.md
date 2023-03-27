@@ -13,7 +13,7 @@
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>  
         </p>
-      <small><em>November, 2022</em></small>
+      <small><em>April, 2023</em></small>
       <h3>&nbsp;🌱&nbsp; Here's what I'm up to lately:</h3>
   Slice, cuttin' choppin' …<br/><br/>
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/implants-orig.png" width=180px align=left><br /><br/>
