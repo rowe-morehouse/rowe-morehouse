@@ -2,7 +2,7 @@
 <meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 
 <h1> Rowe Morehouse</h1>
-<h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; Résumé ⇨ https://git.io/rowe<br/>&nbsp; &nbsp; &nbsp; &nbsp; Let's connect: <a href="https://sunshine.social/rowemore" target=_new>Click here to see all my socials</a>.
+<h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; Résumé ⇨ https://git.io/rowe<br/>&nbsp; &nbsp; &nbsp; &nbsp; Let's connect! ⇨ <a href="https://sunshine.social/rowemore" target=_new>Click here to see all my socials</a>.
 </h2>
 <div align="">
         <p>
@@ -66,7 +66,7 @@ Check out a comprehensive list of <strong>all of my <a href="https://rowe-moreho
 </div>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/) &nbsp; [![Twitter](https://img.shields.io/badge/@rowemore-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/rowemore) &nbsp; [![Profile Views](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat&color=ff69b)]
+[![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/) &nbsp; [![Twitter](https://img.shields.io/badge/@rowemore-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/rowemore) &nbsp; [![Profile Views](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat&color=ff69bb)]
 
 ### <a href="https://twitter.com/rowemore">Hit me on twitter</a> if you want to chat. ✌️
 
