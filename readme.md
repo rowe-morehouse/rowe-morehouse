@@ -23,9 +23,9 @@
 <h3>ANYWAY, here's what's cooking this month:</h3>
 
 <ul>
-
+<li>… still working on becoming <strong>a Google Developer Expert</strong> — to grow my <a href="https://twitter.com/search?q=%23DevRel">#DevRel</a> skills. For GCP stuff I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for you. If you care, you can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it here</a>.<small><br /><br /></small>
 <li>I'm maintaining an ever-growing <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="new">list of AI Writing Tools</a> for automatic content generation, idea recommendation, brainstorming, paraphrasing, summarizing, outlining, grammar check, tone check, context-based sales email customization, and more. Check out <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="new">the Gist</a>. 🤖<small><br /><br /></small>
-<li>All in on  <a href="https://www.deso.org/" target="new">$DESO</a>! — a newish blockchain / token (Decentralized Social) that has so many unique possibilities.<small><br /><br /></small>
+<li>All in on  <a href="https://www.deso.org/" target="new">$DESO</a>! — a newish blockchain / token (Decentralized Social) that has so many unique possibilities. <a href="https://www.youtube.com/watch?v=6Kc0wByBDZc" target=_new">Here's a video</> and <a href="https://docs.google.com/document/d/1YFh78uKqA6v9Dt29txSF8Q-K_zqeOnJpnl1GdjbtqsQ/edit" target=_new">a doc</>describing what you can do with DeSo<small><br /><br /></small>
 <li>🔧 ⁣ I recently <strong>wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. ◁ Check it out on Medium.
 <small><br /><br /></small>
 <li>I'm studying for a <a href="https://www.qualtrics.com/customer-experience/">Qualtrics</a> CX certification and finally getting around to the <a href="https://www.credly.com/org/facebook-blueprint/badge/meta-certified-marketing-science-professional">Meta Marketing Science Professional</a> cert.
@@ -47,7 +47,6 @@
 <li>Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format was a great inspiration.
 <li>Designing with <a href="https://ludus.one">Ludus</a>, <a href="https://shwr.me/">Shower</a>, and <a href="https://revealjs.com">reveal.js</a> was fun. 
 </ul>
-<br /><li>… still working on becoming <strong>a Google Developer Expert</strong> — to grow my <a href="https://twitter.com/search?q=%23DevRel">#DevRel</a> skills. For GCP stuff I made an <a href="https://apps.ankiweb.net">Anki</a> flashcard deck (<a href="https://www.wikiwand.com/en/Spaced_repetition">spaced repetition learning</a>) for you. If you care, you can <a href="https://gist.github.com/rowe-morehouse/d6edb1f0367c18c736dde70d29bbc218">download it here</a>.
 <small><br /><br /></small><li>I've completed my <strong>ImageScrounge</strong> MVP. ImageScrounge is a little desktop app I'em making. It currently works perfectly to scratch my own itch. I'm writing up <strong>the PR&nbsp;FAQ</strong> and I'm gonna have some buddies help me improve it.
 <small><br /><br /></small><li>
 Check out a comprehensive list of <strong>all of my <a href="https://rowe-morehouse.github.io/resume/uses/" alt="Rowe Morehouse · Software Tools">Software Tools</a></strong><i> — (dev tools, productivity, collaboration, audio, design, etc.)</i><small><br /><br /></small></li>
