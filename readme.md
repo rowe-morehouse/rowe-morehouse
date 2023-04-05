@@ -65,6 +65,11 @@ Check out a comprehensive list of <strong>all of my <a href="https://rowe-moreho
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/) &nbsp; [![Twitter](https://img.shields.io/badge/@rowemore-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/rowemore) &nbsp; ![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat&color=ff69b4)
 
+<br/>
+
+<script data-name="Sunshine-Widget" data-cfasync="false" src="https://sunshine.social/js/sunshine-widg
+et.min.js" data-username="rowemore" data-widgeticon="https://sunshine.social/getwidgeticon/rowemore" data-x_margin="18" data-y_margin="18"></script>
+
 ### <a href="https://twitter.com/rowemore">Hit me on twitter</a> if you want to chat. ✌️
 
 <hr />
