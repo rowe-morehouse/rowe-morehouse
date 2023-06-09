@@ -46,8 +46,8 @@
 <small><br /><br /></small><ul type="circle">
 <li><strong>Teaching at ChickTech</strong> is <ins>my main volunteer activity</ins>, for three (3) years now.
 <li>Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format was a great inspiration.
-</ul>
 <small><br /><br /></small>
+</ul>
 <li>I've completed my <strong>ImageScrounge</strong> MVP. ImageScrounge is a little desktop app I'em making. It currently works perfectly to scratch my own itch. I'm writing up <strong>the PR&nbsp;FAQ</strong> and I'm gonna have some buddies help me improve it.
 <small><br /><br /></small><li>
 Check out a comprehensive list of <strong>all of my <a href="https://rowe-morehouse.github.io/resume/uses/" alt="Rowe Morehouse · Software Tools">Software Tools</a></strong><i> — (dev tools, productivity, collaboration, audio, design, etc.)</i><small><br /><br /></small></li>
