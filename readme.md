@@ -41,10 +41,9 @@
 <small><br /><br /></small>
 <li>"Swayze" — <strong>my Facebook Messenger AI chatbot</strong> built with <a href="https://wit.ai">Wit AI</a> — is now retired. It never really worked very well. I found building with Wit AI to be difficult. But it did send me down the path toward Google's <a href="https://cloud.google.com/dialogflow/docs">Dialog Flow</a> and doing speech-to-text and text-to-speech — which is related to my ongoing obession with audio editing.
 <small><br /><br /></small>
-<li>You can check out this (DJ?) mix I made, I did it in Audacity. <a href="https://www.mixcloud.com/Rowe-Morehouse/music-for-programming-vol-6/">✨✨ A relaxing hour long feel-good abstract ambient mix</a> — I think it's killer, have a listen.
-<small><br /><br /></small>
+<li>You can check out this (DJ?) mix I made, I did it in Audacity. <a href="https://www.mixcloud.com/Rowe-Morehouse/music-for-programming-vol-6/"> 🡒 A relaxing hour long feel-good abstract ambient mix ✨✨ A </a> — I think it's killer, have a listen.
 </ul><br />
-<small><br /><br /></small><li>✨✨ My <a href="https://chicktech.org">ChickTech Workshop</a> TEACHING WEB PROGRAMMING skills to HIGH SCHOOL STUDENTS went really well. I got good feedback from the students, and from the Executive Director.
+<small><br /><br /></small><li>a href="https://chicktech.org">ChickTech Workshop</a> TEACHING WEB PROGRAMMING skills to HIGH SCHOOL STUDENTS went really well. I got good feedback from the students, and from the Executive Director.
 <small><br /><br /></small><ul type="circle">
 <li><strong>Teaching at ChickTech</strong> is <ins>my main volunteer activity</ins>, for three (3) years now.
 <li>Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format was a great inspiration.
