@@ -43,7 +43,7 @@
 <small><br /><br /></small>
 <li>You can check out this (DJ?) mix I made, I did it in Audacity. <a href="https://www.mixcloud.com/Rowe-Morehouse/music-for-programming-vol-6/"> A relaxing hour long feel-good abstract ambient mix</a>. — I think it's killer, have a listen.
 </ul>
-<small><br /><br /></small><li>I led a <a href="https://chicktech.org">ChickTech Workshop</a> TEACHING WEB PROGRAMMING skills to high school students from disadvantaged communities. It went really well. I got good feedback from the students, and from the Executive Director.
+<li>I led a <a href="https://chicktech.org">ChickTech Workshop</a> TEACHING WEB PROGRAMMING skills to high school students from disadvantaged communities. It went really well. I got good feedback from the students, and from the Executive Director.
 <small><br /><br /></small><ul type="circle">
 <li><strong>Teaching at ChickTech</strong> is <ins>my main volunteer activity</ins>, for three (3) years now.
 <li>Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format was a great inspiration.
