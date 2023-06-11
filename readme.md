@@ -14,12 +14,13 @@
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>
         </p>
-        <p><span style="color: red;">June, 2023</span></p>
+        <p><em>June, 2023</em></p>
   <p>… I'm not currently planning on buying either one of these:</p>
   <!--Slice, cuttin' choppin' …<br/><br/>-->
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=400px align=left><br /><br/>
         <!--… More.-->
- <BR CLEAR=all>
+<BR CLEAR=all>
+<hr width="50%">
 
 <h3>🤪 ANYWAY, here's what's cooking this month:</h3>
 
