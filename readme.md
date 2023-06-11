@@ -1,7 +1,7 @@
 <meta property="og:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 <meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 
-<h1> Rowe Morehouse</h1>
+<h1>Rowe Morehouse</h1>
 <h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; Let's connect! ⇨ <a href="https://sunshine.social/rowemore" target=_blank>Click here to see all my socials</a>.
 </h2>
 <div align="">
@@ -16,9 +16,9 @@
         </p>
         <small><em><strong>June, 2023</strong></em></small>
       <h3>&nbsp;🌱&nbsp; Not planning on buying either one of these:</h3>
-  Slice, cuttin' choppin' …<br/><br/>
-          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=180px align=left><br /><br/>
-        … More.
+  <!--Slice, cuttin' choppin' …<br/><br/>-->
+          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=640px align=left><br /><br/>
+        <!--… More.-->
  <BR CLEAR=all>
 
 <h3>ANYWAY, here's what's cooking this month:</h3>
