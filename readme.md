@@ -15,13 +15,13 @@
           </a>
         </p>
         <p><span style="color: red;">June, 2023</span></p>
-  <p>&nbsp;🌱&nbsp; As of now, I'm not planning on buying either one of these:</p>
+  <p>… I'm not currently planning on buying either one of these:</p>
   <!--Slice, cuttin' choppin' …<br/><br/>-->
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=400px align=left><br /><br/>
         <!--… More.-->
  <BR CLEAR=all>
 
-<h3>ANYWAY, here's what's cooking this month:</h3>
+<h3>🤪 ANYWAY, here's what's cooking this month:</h3>
 
 <ul>
 <li>Continued focus on Sales & Selling! — writing about Sales Techniques, Sales Process, Sales Coaching, Sales Enablement, and SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target=_blank>G2's Best Sales Products of 2023<a>. Current side hustle (among several) 🡒 <strong>Sourcing Advisor for #SalesTech</strong> purchase decisions for a for a $10M Bay Area SaaS company.  <small><br /><br /></small>
