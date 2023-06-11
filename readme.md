@@ -14,10 +14,10 @@
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>
         </p>
-        <small><em><strong><i style="background-color:tomato;">June, 2023</i></strong></em></small>
-      <h3>&nbsp;🌱&nbsp; Not planning on buying either one of these:</h3>
+        <small><em><strong><span style="font-color:tomato;">June, 2023</span></strong></em></small>
+      <br /> <br />&nbsp;🌱&nbsp; I'm not planning on buying either one of these:
   <!--Slice, cuttin' choppin' …<br/><br/>-->
-          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=480px align=left><br /><br/>
+          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=400px align=left><br /><br/>
         <!--… More.-->
  <BR CLEAR=all>
 
