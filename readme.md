@@ -52,7 +52,7 @@
 </ul>
 <li>I've completed my <strong>ImageScrounge</strong> MVP. ImageScrounge is a little desktop app I'm making. It currently works perfectly to scratch my own itch. I'll throw it up on GitHub soon enough.
 <small><br /><br /></small><li>
-Check out a comprehensive list of <strong>all of my <a href="https://rowe-morehouse.github.io/resume/uses/" alt="Rowe Morehouse · Software Tools">Software Tools</a></strong><i> — (dev tools, productivity, collaboration, audio, design, etc.)</i><small><br /><br /></small></li>
+Check out a comprehensive list of <strong>all of my <a href="https://rowe-morehouse.github.io/resume/uses/" alt="Rowe Morehouse · Software Tools">Software Tools</a></strong><i> — (dev tools, salestech, productivity, collaboration, audio, design, etc.)</i><small><br /><br /></small></li>
         
 <li>That's what's up!</li>
 </ul>
