@@ -22,7 +22,7 @@
 <BR CLEAR=all>
 <hr width="50%">
 
-<h3>🤪 ANYWAY, here's what's cooking this month, JULY 2023</h3>
+<h3>🤪 ANYWAY, here's what's cooking this month, JULY 2023:</h3>
 
 <ul>
 <li>Continued focus on Sales & Selling! — writing about Sales Techniques, Sales Process, Sales Coaching, Sales Enablement, and SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target=_blank>G2's Best Salestech Products of 2023<a>. Current side hustle (among several) 🡒 <strong>Sourcing Advisor for #SalesTech</strong> purchase decisions for a for a $20MM Bay Area SaaS company.  <small><br /><br /></small>
