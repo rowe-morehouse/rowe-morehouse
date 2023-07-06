@@ -71,25 +71,6 @@ Check out a comprehensive list of <strong>all of my <a href="https://rowe-moreho
 
 ### <a href="https://twitter.com/SalesRebuttals">Hit me on twitter</a> if you want to chat. ✌️
 
-<style>
-.libutton {
-display: flex;
-flex-direction: column;
-justify-content: center;
-padding: 7px;
-text-align: center;
-outline: none;
-text-decoration: none !important;
-color: #ffffff !important;
-width: 200px;
-height: 32px;
-border-radius: 16px;
-background-color: #0A66C2;
-font-family: "SF Pro Text", Helvetica, sans-serif;
-}
-</style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rowe-morehouse" target="_blank">Follow Rowe on LinkedIn</a>
-
 <hr />
 
 
