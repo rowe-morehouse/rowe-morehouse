@@ -14,7 +14,7 @@
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>
         </p>
-        <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em>June, 2023</em></p>
+        <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>July, 2023</strong></em></p>
   <p>… I'm not currently planning on buying either one of these:</p>
   <!--Slice, cuttin' choppin' …<br/><br/>-->
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=400px align=left><br /><br/>
@@ -22,10 +22,11 @@
 <BR CLEAR=all>
 <hr width="50%">
 
-<h3>🤪 ANYWAY, here's what's cooking this month:</h3>
+<h3>🤪 ANYWAY, here's what's cooking this month, JULY 2023</h3>
 
 <ul>
-<li>Continued focus on Sales & Selling! — writing about Sales Techniques, Sales Process, Sales Coaching, Sales Enablement, and SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target=_blank>G2's Best Sales Products of 2023<a>. Current side hustle (among several) 🡒 <strong>Sourcing Advisor for #SalesTech</strong> purchase decisions for a for a $10M Bay Area SaaS company.  <small><br /><br /></small>
+<li>Continued focus on Sales & Selling! — writing about Sales Techniques, Sales Process, Sales Coaching, Sales Enablement, and SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target=_blank>G2's Best Salestech Products of 2023<a>. Current side hustle (among several) 🡒 <strong>Sourcing Advisor for #SalesTech</strong> purchase decisions for a for a $20MM Bay Area SaaS company.  <small><br /><br /></small>
+<li>Read all my <a href="https://www.g2.com/best-software-companies/top-sales" target="_blank">Tweets about Sales & Selling! — @SalesRebuttals</a>. <small><br /><br /></small>
 <li>Massively up-skilled up in email marketing — <strong>value messaging, sequencing, and the technical side</strong> of delivery. Did you know I've been doing email marketing since 2002? Also, I used to sell email advertising. Sold probably $500,000 worth of email. Now I use email <em>mostly for prospecting & lead gen for my offers</em>, and of course I run campaings to support my sales efforts for the companies I sell for. Additionally, I set up cold email infrastructure and write cold email sequences for my clients, as a consultant.<small><br /><br /></small>
 <li>Working on the <a href="https://www.salesforce.com/blog/salesblazer/">Salesforce Salesblazer</a> certification. Should be pretty easy, $200 bucks to take the test though. You can <a href="https://trailblazer.me/id/rowe-morehouse">see my other Salesforce certifications here</a>.
 <small><br /><br /></small>
