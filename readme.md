@@ -6,7 +6,7 @@
 </h2>
 <div align="">
         <p>
-           &nbsp; <a href="https://www.twitter.com/rowemore"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+           &nbsp; <a href="https://twitter.com/SalesRebuttals"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
           </a> &nbsp;
           <a href="https://www.linkedin.com/in/rowe-morehouse"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> &nbsp;
           <a href="https://medium.com/@rowemore"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
@@ -67,7 +67,7 @@ Check out a comprehensive list of <strong>all of my <a href="https://rowe-moreho
 </div>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/) &nbsp; [![Twitter](https://img.shields.io/badge/@rowemore-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/rowemore) &nbsp; ![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat&color=ff69bb)
+[![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/) &nbsp; [![Twitter](https://img.shields.io/badge/@rowe-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/SalesRebuttals) &nbsp; ![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat&color=ff69bb)
 
 ### <a href="https://twitter.com/SalesRebuttals">Hit me on twitter</a> if you want to chat. ✌️
 
