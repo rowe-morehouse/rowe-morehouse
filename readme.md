@@ -50,7 +50,6 @@
 <li>Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format was a great inspiration.
 <small><br /><br /></small>
 </ul>
-
 Check out a comprehensive list of <strong>all of my <a href="https://rowe-morehouse.github.io/resume/uses/" alt="Rowe Morehouse · Software Tools">Software Tools</a></strong><i> — (dev tools, salestech, productivity, collaboration, audio, design, etc.)</i><small><br /><br /></small></li>
         
 <li>That's what's up!</li>
