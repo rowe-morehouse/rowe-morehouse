@@ -2,7 +2,7 @@
 <meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 
 <h1>Rowe Morehouse</h1>
-<h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target=_blank>Click here for my bio and links to all my stuff around the web</a>.
+<h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target=_blank>See my bio and links to all my stuff around the web</a>.
 </h2>
 <div align="">
         <p>
@@ -68,7 +68,7 @@
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/) &nbsp; [![Twitter](https://img.shields.io/badge/@rowe-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/SalesRebuttals) &nbsp; ![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat&color=ff69bb)
 
-### Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target=_blank>See my bio and links to all my stuff around the web</a>.
+### Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target=_blank>Click here for my bio and links to all my stuff around the web</a>.
 </h2>
 
 <hr />
