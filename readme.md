@@ -1,3 +1,11 @@
+<!--
+Title: Rowe Morehouse | Blog
+Description: ▪️ Sales Exec · RevOps · Frontline Sales Manager · Coder · Marketer w/ Master's degree & certifications from Amazon AWS, Salesforce, Google, Meta.
+Author: Rowe Morehouse
+-->
+
+<meta property="title" content="Rowe Morehouse | Blog" />  
+<meta property="description" content="▪️ Sales Exec · RevOps · Frontline Sales Manager · Coder · Marketer w/ Master's degree & certifications from Amazon AWS, Salesforce, Google, Meta." />
 <meta property="og:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 <meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 
