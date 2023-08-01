@@ -10,7 +10,7 @@ Author: Rowe Morehouse
 <meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 
 <h1>Rowe Morehouse</h1>
-<h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target=_blank>See my bio and links to all my stuff around the web</a>.
+<h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target="_blank">Rowe Morehouse</a> bio & links to all my stuff around the web.
 </h2>
 <div align="">
         <p>
@@ -22,25 +22,28 @@ Author: Rowe Morehouse
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>
         </p>
-        <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>July, 2023</strong></em></p>
+        <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>August, 2023</strong></em></p>
   <p>… I'm not currently planning on buying either one of these:</p>
   <!--Slice, cuttin' choppin' …<br/><br/>-->
-          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=400px align=left><br /><br/>
+          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=480px align=left><br /><br/>
         <!--… More.-->
 <BR CLEAR=all>
 <hr width="50%">
 
-<h3>🤪 ANYWAY, here's what's cooking this month, JULY 2023:</h3>
+<h3>🤪 ANYWAY, here's what's cooking this month, AUGUST 2023:</h3>
 
 <ul>
-<li>Continued focus on Sales & Selling! — writing about Sales Techniques, Sales Process, Sales Coaching, Sales Enablement, and SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target=_blank>G2's Best Salestech Products of 2023<a>. Current side hustle (among several) 🡒 <strong>Sourcing Advisor for #SalesTech</strong> purchase decisions for a for a $20MM Bay Area SaaS company.  <small><br /><br /></small>
+<li>Continued focus on <strong>Sales & Selling</strong>! — writing about Sales Techniques, Sales Process, Sales Coaching, Sales Enablement, and SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target="_blank">G2's Best Salestech Products of 2023<a>.
+<small><br /><br /></small>
+Current side hustle (among several) 🡒 <strong>Sourcing Advisor for #SalesTech</strong> purchase decisions for a for a $20MM Bay Area SaaS company.  <small><br /><br /></small>
 <li>Read all my <a href="https://twitter.com/SalesRebuttals" target="_blank">🐦 Tweets about Sales & Selling! — @SalesRebuttals</a>. <small><br /><br /></small>
 <li>Massively up-skilled up in email marketing — <strong>value messaging, sequencing, and the technical side</strong> of delivery. Did you know I've been doing email marketing since 2002? Also, I used to sell email advertising. Sold probably $500,000 worth of email. Now I use email <em>mostly for prospecting & lead gen for my own offers</em>, and of course I run campaigns to support my sales efforts for the companies I sell for. Additionally, I set up cold email infrastructure and write cold email sequences / cadences for my clients, as a consultant.<small><br /><br /></small>
 <li>Working on the <a href="https://www.salesforce.com/blog/salesblazer/">Salesforce Salesblazer</a> certification. Should be pretty easy, $200 bucks to take the test though. You can <a href="https://trailblazer.me/id/rowe-morehouse">see my other Salesforce certifications here</a>.
 <small><br /><br /></small>
-<li>For these certificatons I enjoy studying for, I'm preferring <strong><a href="https://zorbi.com" target=_blank>"Zorbi"<a></strong> for <a href="https://en.wikipedia.org/wiki/Spaced_repetition">spaced repetition learning</a>. You can create flashcards from Notion, which is pretty cool.<small><br /><br /></small>
-<li>I'm <strike>maintaining</strike> no longer maintaining a <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="new">List of AI Writing Tools</a> I started compiling 2 years ago. Too much AI HYPE out there for me to deal with. I do, however, regularly use GPT and Bard for industry research, brainstorming, summarizing, & context-based sales email personalization. 🤖<small><br /><br /></small>
-<li>🔧 ⁣<strong>I wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. ◁ Check it out on Medium.
+<li>For these certificatons I enjoy studying for, I'm preferring <strong><a href="https://zorbi.com" target="_blank">"Zorbi"<a></strong> for <a href="https://en.wikipedia.org/wiki/Spaced_repetition">spaced repetition learning</a>. You can create flashcards from Notion, which is pretty cool.<small><br /><br /></small>
+<li>Updated my bio: <a href="https://sunshine.social/rowemore/bio" target="_blank">Rowe Morehouse</a>. <small><br /><br /></small>
+<li>I'm <strike>maintaining</strike> no longer maintaining a <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">List of AI Writing Tools</a> I started compiling 2 years ago. Too much AI HYPE out there for me to deal with. I do, however, regularly use GPT and Bard for industry research, brainstorming, summarizing, & context-based sales email personalization. 🤖<small><br /><br /></small>
+<li>🔧 ⁣<strong>I wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. You can also see a few more of my writing samples on Medium: <a href="https://rowemore.medium.com">Rowe Morehouse</a>.
 <small><br /><br /></small>
 <li>Marketers, check out my <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzv-S8MkS8L51NciTmGI-PrbPqAFr1GrW1Db5AQsqgQ0uDEAO6c-otIiP2u5t8SM7kG5vF5zeDLpPk/pubhtml">Big List of Dark Patterns</a> (google sheet) — with copywriting examples! — and offending URLs that demonstate the patterns! … Or if you're in a hurry, here's <a href="https://www.deceptive.design/types">the TL;DR on Dark Patterns</a>.
 <small><br /><br /></small><li>I made a list of over 12,000 keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out ⇨ <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>. I'm using it for copywriting. MAKE A COPY FOR YOURSELF. ✨
@@ -76,7 +79,7 @@ Author: Rowe Morehouse
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/) &nbsp; [![Twitter](https://img.shields.io/badge/@rowe-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/SalesRebuttals) &nbsp; ![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat&color=ff69bb)
 
-### Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target=_blank>Click here for my bio and links to all my socials & other stuff around the web</a>.
+### Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target="_blank">Click here for my bio and links to all my socials & other stuff around the web</a>.
 </h2>
 
 <hr />
