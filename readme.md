@@ -10,7 +10,7 @@ Author: Rowe Morehouse
 <meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 
 <h1>Rowe Morehouse</h1>
-<h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target="_blank">Rowe Morehouse</a> bio & links to all my stuff around the web.
+<h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target="_blank">Rowe Morehouse</a> bio & social sites.
 </h2>
 <div align="">
         <p>
@@ -35,7 +35,7 @@ Author: Rowe Morehouse
 <ul>
 <li>Continued focus on <strong>Sales & Selling</strong>! — writing about Sales Techniques, Sales Process, Sales Coaching, Sales Enablement, and SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target="_blank">G2's Best Salestech Products of 2023<a>.
 <small><br /><br /></small>
-Current side hustle (among several) 🡒 <strong>Sourcing Advisor for #SalesTech</strong> purchase decisions for a for a $20MM Bay Area SaaS company.  <small><br /><br /></small>
+Current side hustle (among several) 🡒 <strong>Sourcing Advisor for SalesTech</strong> purchase decisions for a for a $20M Bay Area SaaS company. I'm helping them modernize their SalesTech stack. For the stuff they end up buying, I do the integrations as well.<small><br /><br /></small>
 <li>Read all my <a href="https://twitter.com/SalesRebuttals" target="_blank">🐦 Tweets about Sales & Selling! — @SalesRebuttals</a>. <small><br /><br /></small>
 <li>Massively up-skilled up in email marketing — <strong>value messaging, sequencing, and the technical side</strong> of delivery. Did you know I've been doing email marketing since 2002? Also, I used to sell email advertising. Sold probably $500,000 worth of email. Now I use email <em>mostly for prospecting & lead gen for my own offers</em>, and of course I run campaigns to support my sales efforts for the companies I sell for. Additionally, I set up cold email infrastructure and write cold email sequences / cadences for my clients, as a consultant.<small><br /><br /></small>
 <li>Working on the <a href="https://www.salesforce.com/blog/salesblazer/">Salesforce Salesblazer</a> certification. Should be pretty easy, $200 bucks to take the test though. You can <a href="https://trailblazer.me/id/rowe-morehouse">see my other Salesforce certifications here</a>.
@@ -45,9 +45,7 @@ Current side hustle (among several) 🡒 <strong>Sourcing Advisor for #SalesTech
 <li>I'm <strike>maintaining</strike> no longer maintaining a <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">List of AI Writing Tools</a> I started compiling 2 years ago. Too much AI HYPE out there for me to deal with. I do, however, regularly use GPT and Bard for industry research, brainstorming, summarizing, & context-based sales email personalization. 🤖<small><br /><br /></small>
 <li>🔧 ⁣<strong>I wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. You can also see a few more of my writing samples on Medium: <a href="https://rowemore.medium.com">Rowe Morehouse</a>.
 <small><br /><br /></small>
-<li>Marketers, check out my <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzv-S8MkS8L51NciTmGI-PrbPqAFr1GrW1Db5AQsqgQ0uDEAO6c-otIiP2u5t8SM7kG5vF5zeDLpPk/pubhtml">Big List of Dark Patterns</a> (google sheet) — with copywriting examples! — and offending URLs that demonstate the patterns! … Or if you're in a hurry, here's <a href="https://www.deceptive.design/types">the TL;DR on Dark Patterns</a>.
-<small><br /><br /></small><li>I made a list of over 12,000 keywords that elicit <em>positive emotions</em> vs <em>negative emotions</em> … you can check it out ⇨ <a href="https://docs.google.com/spreadsheets/d/1DjsQzSqYtgoyqW9UmptcrnmqLx73mbch7M0zmV5VuuQ/edit?usp=sharing">on this google sheet</a>. I'm using it for copywriting. MAKE A COPY FOR YOURSELF. ✨
-<small><br /><br /></small><li>I'm experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like OpenLexicon, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
+<li>I'm experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like OpenLexicon, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
 <small><br /><br /></small>
 <ul type="circle">
 <li><strong>My goal with this whole Machine Learning / Artificial Intelligence</strong> angle-of-inquiry is to learn to【1】write more engaging copy,【2】develop more empathetic products, and【3】design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's <strike>fun to spin-up the AI stuff on Google Cloud</strike> it's not that fun anymore when GPT is so easy to use & a gazillion products out there w/ their own angle on it.
