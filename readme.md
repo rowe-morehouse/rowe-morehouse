@@ -69,7 +69,7 @@ Current side hustle (among several) 🡒 <strong>Sourcing Advisor for SalesTech<
 </td>
 <td style="padding: 0; margin: 0">
   <div align="left">
-    <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width=200px align=left><br />
+    <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width=200px align=left style="padding-bottom: 15px"><br />
    <h2> Résumé ⇨ https://rowe-morehouse.github.io/resume/</h2>
   </div>
 </div>
