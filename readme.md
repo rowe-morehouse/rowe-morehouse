@@ -60,7 +60,7 @@ Current side hustle (among several) 🡒 <strong>Sourcing Advisor for SalesTech<
 <small><br /><br /></small>
 </ul>
 
-<li>✅ Check out a comprehensive list of <strong>all of my <a href="https://rowe-morehouse.github.io/resume/uses/" alt="Rowe Morehouse">Software Tools</a></strong><i> — (dev tools, salestech, productivity, collaboration, audio, design, etc.)</i><small><br /><br /></small></li>
+<li>✅ Check out a comprehensive list of <strong>all of my <a href="https://rowe-morehouse.github.io/resume/uses/" alt="Rowe Morehouse">Software Tools</a></strong><i> — (dev tools, salestech, productivity, collaboration, audio, design, etc.)</i> Hey, I'm on IndieHackers now too: <a href="https://www.indiehackers.com/rowe_morehouse/" target="_blank">Rowe Morehouse</a> <small><br /><br /></small></li>
         
 <li>That's what's up!</li>
 </ul>
