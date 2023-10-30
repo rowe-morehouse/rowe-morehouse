@@ -27,7 +27,7 @@ Author: Rowe Morehouse
   <p>… I'm not currently planning on buying either one of these:</p>
   <!--Slice, cuttin' choppin' …<br/><br/>-->
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=480px align=left><br /><br/>
-        <!--… More.-->
+   
 <BR CLEAR=all>
         -->
 <hr width="50%">
