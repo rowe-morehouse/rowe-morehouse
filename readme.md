@@ -25,7 +25,7 @@ Author: Rowe Morehouse
         <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>November, 2023</strong></em></p>
   <!--      
   <p>… I'm not currently planning on buying either one of these:</p>
-  <!--Slice, cuttin' choppin' …<br/><br/>-->
+
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=480px align=left><br /><br/>
    
 <BR CLEAR=all>
