@@ -22,15 +22,17 @@ Author: Rowe Morehouse
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>
         </p>
-        <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>August, 2023</strong></em></p>
+        <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>November, 2023</strong></em></p>
+  <!--      
   <p>… I'm not currently planning on buying either one of these:</p>
   <!--Slice, cuttin' choppin' …<br/><br/>-->
           <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=480px align=left><br /><br/>
         <!--… More.-->
 <BR CLEAR=all>
+        -->
 <hr width="50%">
 
-<h3>🤪 ANYWAY, here's what's cooking this month, AUGUST 2023:</h3>
+<h3>Here's what's cooking this month, November 2023:</h3>
 
 <ul>
 <li>Continued focus on <strong>Sales & Selling</strong>! — writing about Sales Techniques, Sales Methodology, Sales Coaching, & SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target="_blank">G2's Best Salestech Products of 2023<a>.
