@@ -38,7 +38,7 @@ Author: Rowe Morehouse
 
 <li>Here’s the techstack for my newest ecomm site, now in development: <strong>Astro, tailwind, react, stripe, netlify, w/ blog engine, rss, schema, sitemap</strong>. I love coding with these tools.<small><br /><br /></small>
         
-<li><strong>Vercel & Next.js</strong>: testing out incremental static regeneration, personalization at the edge, edge redirects, A/B testing with Google Optimize. Cool features!<small><br /><br /></small>
+<li><strong>Vercel & Next.js</strong>: Testing out incremental static regeneration, personalization at the edge, edge redirects, A/B testing with Google Optimize. Cool features, unique features from Vercel!<small><br /><br /></small>
         
 <li>Continued focus on <strong>Sales & Selling</strong>! — writing about Sales Techniques, Sales Methodology, Sales Coaching, & SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target="_blank">G2's Best Salestech Products of 2023<a>.
 <small><br /><br /></small>
