@@ -36,7 +36,7 @@ Author: Rowe Morehouse
 
 <ul>
 
-<li>Here’s the techstack for my newest ecomm site, now in development: </strong>Astro, tailwind, react, stripe, netlify, w/ blog engine, rss, schema, sitemap</strong>. I love coding with these tools.<small><br /><br /></small>
+<li>Here’s the techstack for my newest ecomm site, now in development: <strong>Astro, tailwind, react, stripe, netlify, w/ blog engine, rss, schema, sitemap</strong>. I love coding with these tools.<small><br /><br /></small>
         
 <li><strong>Vercel & Next.js</strong>: testing out incremental static regeneration, personalization at the edge, edge redirects, A/B testing with Google Optimize. Cool features!<small><br /><br /></small>
         
