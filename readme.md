@@ -10,6 +10,11 @@ Author: Rowe Morehouse
 <meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 
 <h1>Rowe Morehouse</h1>
+
+
+<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/rowe-morehouse.jpg" width=480px align=left>
+<p><i>In Hội An, Vietnam. February 2024.</i></p><br /><br/>
+
 <h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target="_blank">Rowe Morehouse</a> bio & social sites.
 </h2>
 <div align="">
@@ -24,10 +29,6 @@ Author: Rowe Morehouse
         </p>
         <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>April, 2024</strong></em></p>
   <!--      
-  
-
-          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/rowe-morehouse.jpg" width=480px align=left>
-          <p><i>In Hội An, Vietnam. February 2024.</i></p><br /><br/>
    
 <BR CLEAR=all>
         -->
