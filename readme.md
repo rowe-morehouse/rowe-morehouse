@@ -43,18 +43,20 @@ Author: Rowe Morehouse
 
 <li>Current side hustle (among several) 🡒 <strong>Sourcing Advisor for SalesTech</strong> purchase decisions for a for a $20M Bay Area SaaS company. I'm helping them modernize their SalesTech stack. For the stuff they end up buying, I do the integrations as well.<small><br /><br /></small>
 
-<li>Huge push into incorprating <strong>AI workflows into my daily routines</strong>. Advanced prompt crafting, assisted coding, & generative writing <i>within VS Code</i> — using Phind, Github Copilot, Claude 3, GPT4, Gemini, Llama.<small><br /><br /></small>
+<li>Huge push into incorprating <strong>AI workflows into my daily routines</strong>. Advanced prompt crafting, assisted coding, & generative writing <i>within VS Code</i> — using Phind, Github Copilot, Claude 3, GPT4, Gemini, Llama. 🤖<small><br /><br /></small>
 
 <!-- <li>Read all my <a href="https://twitter.com/SalesRebuttals" target="_blank">🐦 Tweets about Sales & Selling! — @SalesRebuttals</a>. <small><br /><br /></small> -->
 <li>Massively up-skilled up in email marketing — <strong>value messaging, sequencing, and the technical side</strong> of delivery. Did you know I've been doing email marketing since 2002? Also, I used to sell email advertising. Sold probably $500,000 worth of email. Now I use email <em>mostly for prospecting & lead gen for my own offers</em>. I also set up cold email infrastructure and write cold email sequences / cadences for my clients, as a consultant.<small><br /><br /></small>
 <li>Working on the <a href="https://www.salesforce.com/blog/salesblazer/">Salesforce Salesblazer</a> certification. Should be pretty easy, $200 bucks to take the test though. You can <a href="https://trailblazer.me/id/rowe-morehouse">see my other Salesforce certifications here</a>.
 <small><br /><br /></small>
 
-<li>I'm <strike>maintaining</strike> no longer maintaining a <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">List of AI Writing Tools</a> I started compiling 3 years ago. Too many brand new products that are largely "wrappers" for generative writing; too much to keep up with. I do, however, regularly use OpenAI, Bard, & Claude for industry research, brainstorming, summarizing, writing assistance, & context-based sales content personalization. I'm finding so many uses daily. 🤖<small><br /><br /></small>
+<li>I'm <strike>maintaining</strike> no longer maintaining a <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">List of AI Writing Tools</a> I started compiling 3 years ago. Too many brand new products that are hyped up "wrappers" for generative writing; too much hype in this space. I'm back to basics, relaying on foundational model APIs within my editor.<small><br /><br /></small>
 <li>🔧 ⁣<strong>I wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. You can also see a few more of my writing samples on Medium: <a href="https://rowemore.medium.com">Rowe Morehouse</a>.
 <small><br /><br /></small>
-<li>I'm experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like OpenLexicon, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
-<small><br /><br /></small>
+
+<!--<li>I'm experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like OpenLexicon, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
+<small><br /><br /></small>-->
+        
 <ul type="circle">
 <li><strong>My goal with this whole Machine Learning / Artificial Intelligence</strong> angle-of-inquiry is to learn to【1】write more engaging copy,【2】develop more empathetic products, and【3】design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's <strike>fun to spin-up the AI stuff on Google Cloud</strike> it's not that fun anymore when GPT is so easy to use & a gazillion products out there w/ their own angle on it.
 <small><br /><br /></small>
