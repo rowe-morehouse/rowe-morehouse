@@ -10,7 +10,7 @@ Author: Rowe Morehouse
 <meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
 
 <h1>Rowe Morehouse</h1>
-
+<br>
 
 <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/rowe-morehouse.jpg" width=480px align=left>
 <p><i>In Hội An, Vietnam. February 2024.</i></p><br /><br/>
