@@ -24,9 +24,10 @@ Author: Rowe Morehouse
         </p>
         <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>April, 2024</strong></em></p>
   <!--      
-  <p>… I'm not currently planning on buying either one of these:</p>
+  
 
-          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/shrooms.jpg" width=480px align=left><br /><br/>
+          <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/rowe-morehouse.jpg" width=480px align=left>
+          <p><i>In Hội An, Vietnam. February 2024.</i></p><br /><br/>
    
 <BR CLEAR=all>
         -->
