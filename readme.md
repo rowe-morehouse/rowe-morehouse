@@ -57,11 +57,13 @@ Author: Rowe Morehouse
 <!--<li>I'm experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like OpenLexicon, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
 <small><br /><br /></small>-->
         
-<ul type="circle">
+<!-- <ul type="circle">
 <li><strong>My goal with this whole Machine Learning / Artificial Intelligence</strong> angle-of-inquiry is to learn to【1】write more engaging copy,【2】develop more empathetic products, and【3】design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's <strike>fun to spin-up the AI stuff on Google Cloud</strike> it's not that fun anymore when GPT is so easy to use & a gazillion products out there w/ their own angle on it.
 <small><br /><br /></small>
 <li>"Swayze" — <strong>my Facebook Messenger AI chatbot</strong> built with <a href="https://wit.ai">Wit AI</a> — is now sunset & retired. It never really worked very well. I found building with Wit AI to be difficult. I don't know if Meta even uses it for anything anymore. But it did send me down the path toward Google's <a href="https://cloud.google.com/dialogflow/docs">Dialog Flow</a> and doing speech-to-text and text-to-speech — which is related to my ongoing obession with audio editing.
-<small><br /><br /></small></ul>
+<small><br /><br /></small>
+</ul> -->
+
 <li>🔥 You can check out this (DJ?) mix I made, I did it in Audacity 🡒 <a href="https://www.mixcloud.com/Rowe-Morehouse/music-for-programming-vol-6/">A relaxing hour long feel-good abstract ambient mix</a>. — I think it's killer, have a listen.
 <small><br /><br /></small><li>I led a <a href="https://chicktech.org">ChickTech Workshop</a> TEACHING WEB PROGRAMMING skills to high school students from disadvantaged communities. It went really well. I got good feedback from the students and from the Executive Director.
 <small><br /><br /></small><ul type="circle">
