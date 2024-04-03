@@ -43,7 +43,7 @@ Author: Rowe Morehouse
 
 <li>Current side hustle (among several) 🡒 <strong>Sourcing Advisor for SalesTech</strong> purchase decisions for a for a $20M Bay Area SaaS company. I'm helping them modernize their SalesTech stack. For the stuff they end up buying, I do the integrations as well.<small><br /><br /></small>
 
-<li>Huge push into incorprating AI workflows into my daily routines. Advanced prompt crafting, assisted coding, & generative writing within VS Code — using Phind, Github Copilot, Claude 3, GPT4, Gemini, Llama.<small><br /><br /></small>
+<li>Huge push into incorprating <strong>AI workflows into my daily routines</strong>. Advanced prompt crafting, assisted coding, & generative writing <i>within VS Code</i> — using Phind, Github Copilot, Claude 3, GPT4, Gemini, Llama.<small><br /><br /></small>
 
 <!-- <li>Read all my <a href="https://twitter.com/SalesRebuttals" target="_blank">🐦 Tweets about Sales & Selling! — @SalesRebuttals</a>. <small><br /><br /></small> -->
 <li>Massively up-skilled up in email marketing — <strong>value messaging, sequencing, and the technical side</strong> of delivery. Did you know I've been doing email marketing since 2002? Also, I used to sell email advertising. Sold probably $500,000 worth of email. Now I use email <em>mostly for prospecting & lead gen for my own offers</em>, and of course I run campaigns to support my sales efforts for the companies I sell for. Additionally, I set up cold email infrastructure and write cold email sequences / cadences for my clients, as a consultant.<small><br /><br /></small>
