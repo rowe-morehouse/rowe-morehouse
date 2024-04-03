@@ -12,7 +12,7 @@ Author: Rowe Morehouse
 <h1>Rowe Morehouse</h1>
 <br>
 
-<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/rowe-morehouse.jpg" width=480px align=left>
+<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/rowe-morehouse.jpg" width=480px>
 <p><i>In Hội An, Vietnam. February 2024.</i></p><br /><br/>
 
 <h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target="_blank">Rowe Morehouse</a> bio & social sites.
