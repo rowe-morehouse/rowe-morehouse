@@ -22,7 +22,7 @@ Author: Rowe Morehouse
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>
         </p>
-        <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>March, 2024</strong></em></p>
+        <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>April, 2024</strong></em></p>
   <!--      
   <p>… I'm not currently planning on buying either one of these:</p>
 
@@ -32,16 +32,15 @@ Author: Rowe Morehouse
         -->
 <hr width="50%">
 
-<h3>Here's what's cooking this month, March 2024:</h3>
+<h3>Here's what's cooking this month, April 2024:</h3>
 
 <ul>
 
-<li>Here’s the techstack for my newest ecomm site, now in development: <strong>Astro, tailwind, react, stripe, netlify, w/ blog engine, rss, schema, sitemap</strong>. I love coding with these tools.<small><br /><br /></small>
-        
-<li><strong>Vercel & Next.js</strong>: Testing out incremental static regeneration, personalization at the edge, edge redirects, A/B testing with Google Optimize. Cool, unique features from Vercel!<small><br /><br /></small>
-        
-<li>Continued focus on <strong>Sales & Selling</strong>! — writing about Sales Techniques, Sales Methodology, Sales Coaching, & SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target="_blank">G2's Best Salestech Products of 2024<a>.
+<li>Continued focus on <strong>Sales & Selling</strong>! — writing about Sales Techniques, Sales Methodology, AI workflows for sales, & SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target="_blank">G2's Best Salestech Products of 2024<a>.
 <small><br /><br /></small>
+
+<li>More webdev! Current favorite stack: <strong>Astro, tailwind, react, stripe, netlify, w/ blog engine, rss, schema, sitemap</strong>. I love coding with these tools.<small><br /><br /></small>
+
 Current side hustle (among several) 🡒 <strong>Sourcing Advisor for SalesTech</strong> purchase decisions for a for a $20M Bay Area SaaS company. I'm helping them modernize their SalesTech stack. For the stuff they end up buying, I do the integrations as well.<small><br /><br /></small>
 <li>Read all my <a href="https://twitter.com/SalesRebuttals" target="_blank">🐦 Tweets about Sales & Selling! — @SalesRebuttals</a>. <small><br /><br /></small>
 <li>Massively up-skilled up in email marketing — <strong>value messaging, sequencing, and the technical side</strong> of delivery. Did you know I've been doing email marketing since 2002? Also, I used to sell email advertising. Sold probably $500,000 worth of email. Now I use email <em>mostly for prospecting & lead gen for my own offers</em>, and of course I run campaigns to support my sales efforts for the companies I sell for. Additionally, I set up cold email infrastructure and write cold email sequences / cadences for my clients, as a consultant.<small><br /><br /></small>
