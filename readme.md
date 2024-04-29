@@ -39,13 +39,15 @@ Author: Rowe Morehouse
 <li>Continued focus on <strong>Sales & Selling</strong>! — writing about Sales Techniques, Sales Methodology, AI workflows for sales, & SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target="_blank">G2's Best Salestech Products of 2024<a>.
 <small><br /><br /></small>
 
-<li>More webdev! Current favorite stack: <strong>Astro, tailwind, react, stripe, netlify, w/ blog engine, rss, schema, sitemap</strong>. I love coding with these tools.<small><br /><br /></small>
-
-<li>Current side hustle (among several) 🡒 <strong>Sourcing Advisor for SalesTech</strong> purchase decisions for a for a $20M Bay Area SaaS company. I'm helping them modernize their SalesTech stack. For the stuff they end up buying, I do the integrations as well.<small><br /><br /></small>
 
 <li>Huge push into incorprating <strong>AI workflows into my daily routines</strong>. Advanced prompt crafting, assisted coding, & generative writing <i>within VS Code</i> — using Phind, Github Copilot, Claude 3, GPT4, Gemini, Llama. 🤖<small><br /><br /></small>
 
-<!-- <li>Read all my <a href="https://twitter.com/SalesRebuttals" target="_blank">🐦 Tweets about Sales & Selling! — @SalesRebuttals</a>. <small><br /><br /></small> -->
+<li>More webdev! Current favorite stack: <strong>Astro, tailwind, react, stripe, netlify, w/ blog engine, rss, schema, sitemap</strong>. I love coding with these tools.<small><br /><br /></small>
+
+<li>Current fav project 🡒 <strong>Sourcing Advisor for SalesTech</strong> purchase decisions for a for a $20M Bay Area SaaS company. I'm helping them modernize their SalesTech stack. For the stuff they end up buying, I do the integrations as well.<small><br /><br /></small>
+
+<li>Read all my <a href="https://twitter.com/objections_dog" target="_blank">🐦 Tweets about Sales & Selling! — @objections_dog</a>. <small><br /><br /></small>
+
 <li>Massively up-skilled up in email marketing — <strong>value messaging, sequencing, and the technical side</strong> of delivery. Did you know I've been doing email marketing since 2002? Also, I used to sell email advertising. Sold probably $500,000 worth of email. Now I use email <em>mostly for prospecting & lead gen for my own offers</em>. I also set up cold email infrastructure and write cold email sequences / cadences for my clients, as a consultant.<small><br /><br /></small>
 <li>Working on the <a href="https://www.salesforce.com/blog/salesblazer/">Salesforce Salesblazer</a> certification. Should be pretty easy, $200 bucks to take the test though. You can <a href="https://trailblazer.me/id/rowe-morehouse">see my other Salesforce certifications here</a>.
 <small><br /><br /></small>
