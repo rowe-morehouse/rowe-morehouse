@@ -40,7 +40,7 @@ Author: Rowe Morehouse
 <small><br /><br /></small>
 
 
-<li>Huge push into incorprating <strong>AI workflows into my daily routines</strong>. Advanced prompt crafting, assisted coding, & generative writing <i>within VS Code</i> — using Phind, Github Copilot, Claude 3, GPT4, Gemini, Llama. 🤖<small><br /><br /></small>
+<li>Huge push into incorprating <strong>AI workflows into my daily routines</strong>. Advanced prompt crafting, assisted coding, & generative writing <i>within VS Code</i> — using Github Copilot, Claude Opus, GPT4, Gemini, Llama. 🤖<small><br /><br /></small>
 
 <li>More webdev! Current favorite stack: <strong>Astro, tailwind, react, stripe, netlify, w/ blog engine, rss, schema, sitemap</strong>. I love coding with these tools.<small><br /><br /></small>
 
@@ -52,7 +52,7 @@ Author: Rowe Morehouse
 <li>Working on the <a href="https://www.salesforce.com/blog/salesblazer/">Salesforce Salesblazer</a> certification. Should be pretty easy, $200 bucks to take the test though. You can <a href="https://trailblazer.me/id/rowe-morehouse">see my other Salesforce certifications here</a>.
 <small><br /><br /></small>
 
-<li>I'm <strike>maintaining</strike> no longer maintaining a <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">List of AI Writing Tools</a> I started compiling 3 years ago. Too many brand new products that are hyped up "wrappers" for generative writing; too much hype in this space. I'm back to basics, relaying on foundational model APIs within my editor.<small><br /><br /></small>
+<li>I'm <strike>maintaining</strike> no longer maintaining a <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">List of AI Writing Tools</a> I started compiling 3 years ago. Too many brand new products that are hyped up "wrappers" for generative writing; too much hype in this space. I'm back to basics, relying on foundational model APIs within my editor.<small><br /><br /></small>
 <li>🔧 ⁣<strong>I wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. You can also see a few more of my writing samples on Medium: <a href="https://rowemore.medium.com">Rowe Morehouse</a>.
 <small><br /><br /></small>
 
