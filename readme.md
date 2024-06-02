@@ -1,13 +1,15 @@
 <!--
 Title: Rowe Morehouse | Blog
-Description: ▪️ Sales Exec · RevOps · Frontline Sales Manager · Coder · Marketer w/ Master's degree & certifications from Amazon AWS, Salesforce, Google, Meta.
+Description: ▪️ Rowe Morehouse · Sales Exec · Frontline Sales Manager · Coder · Marketer w/ Master's degree & certifications from Amazon AWS, Salesforce, Google, Meta.
 Author: Rowe Morehouse
 -->
 
+https://gist.github.com/rowe-morehouse/901e937088d377b1651a97f4297eaf91
+
 <meta property="title" content="Rowe Morehouse | Blog" />  
-<meta property="description" content="▪️ Sales Exec · RevOps · Frontline Sales Manager · Coder · Marketer w/ Master's degree & certifications from Amazon AWS, Salesforce, Google, Meta." />
-<meta property="og:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
-<meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.png">
+<meta property="description" content="▪️ Rowe Morehouse · Sales Exec · Frontline Sales Manager · Coder · Marketer w/ Master's degree & certifications from Amazon AWS, Salesforce, Google, Meta." />
+<meta property="og:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.jpg">
+<meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.jpg">
 
 <h1>Rowe Morehouse</h1>
 <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/rowe-morehouse.jpg" width=480px>
@@ -25,16 +27,19 @@ Author: Rowe Morehouse
           <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
           </a>
         </p>
-        <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>May, 2024</strong></em></p>
+        <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>June, 2024</strong></em></p>
   <!--      
    
 <BR CLEAR=all>
         -->
 <hr width="50%">
 
-<h3>Here's what's cooking this month, May 2024:</h3>
+<h3>Here's what's cooking this month, June 2024:</h3>
 
 <ul>
+
+<li>Building a free game that teaches you about sales and selling: <a href="https://objections.dog/meddpicc-sales-calculator" target="_blank">MEDDPICC Sales Calculator<a>. Will They Buy? – Estimate The Probability w/ This Free Game! Review these sales "green light conditions" that indicate your deal is likely to close. Click the red squares to check them off. You want the whole board to turn GREEN. Based on MEDDPICC sales framework. You have a 5 minute countdown timer to complete the game.
+<small><br /><br /></small>
 
 <li>Continued focus on <strong>Sales & Selling</strong>! — writing about Sales Techniques, Sales Methodology, AI workflows for sales, & SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target="_blank">G2's Best Salestech Products of 2024<a>.
 <small><br /><br /></small>
