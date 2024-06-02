@@ -60,7 +60,7 @@ https://gist.github.com/rowe-morehouse/901e937088d377b1651a97f4297eaf91
 <li>🔧 ⁣<strong>I wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. You can also see a few more of my writing samples on Medium: <a href="https://rowemore.medium.com">Rowe Morehouse</a>.
 <small><br /><br /></small>
 
-<li>Started working with AI in 2020 when I created this dataset on Kaggle, and used <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a>. What I learned was that so many people knee-jerk reflexively use the terms "game changer" and "hands down" and they should punch themselves.
+<li>Started working with AI in 2020 when I created a dataset on Kaggle, and used <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a>. What I learned was that so many people knee-jerk reflexively use the terms "game changer" and "hands down" and they should punch themselves.
 <small><br /><br /></small>
         
 <li><strong>My goal with this whole Machine Learning / Artificial Intelligence</strong> angle-of-inquiry has been to learn to【1】write more engaging copy,【2】develop more empathetic products, and【3】design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's fun to spin-up the AI stuff on Google Cloud. <small><br /><br /></small>
@@ -81,6 +81,8 @@ https://gist.github.com/rowe-morehouse/901e937088d377b1651a97f4297eaf91
         
 <li>That's what's up!</li>
 </ul>
+
+BASED.
 
          
 </td>
