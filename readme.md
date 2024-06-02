@@ -45,7 +45,7 @@ https://gist.github.com/rowe-morehouse/901e937088d377b1651a97f4297eaf91
 <small><br /><br /></small>
 
 
-<li>Huge push into incorprating <strong>AI workflows into my daily routines</strong>. Advanced prompt crafting, assisted coding, & generative writing <i>within VS Code</i> — using Github Copilot, Claude Opus, GPT4, Gemini, Llama. 🤖<small><br /><br /></small>
+<li>Huge push into incorprating <strong>AI workflows into my daily routines</strong>. Advanced prompt crafting, assisted coding, & generative writing <i>within VS Code</i> — using Github Copilot, GPT4o, Google AI Studio, Llama. 🤖<small><br /><br /></small>
 
 <li>More webdev! Current favorite stack: <strong>Astro, tailwind, react, stripe, netlify, VScode, unix CLI.</strong>. I love coding with these tools.<small><br /><br /></small>
 
@@ -79,11 +79,8 @@ https://gist.github.com/rowe-morehouse/901e937088d377b1651a97f4297eaf91
 
 <li>✅ Check out a comprehensive list of <strong>all of my <a href="https://rowe-morehouse.github.io/resume/uses/" alt="Rowe Morehouse">Software Tools</a></strong><i> — (dev tools, salestech, productivity, collaboration, audio, design, etc.)</i><small><br /><br /></small></li>
         
-<li>That's what's up!</li>
+<li>BASED. That's what's up!</li>
 </ul>
-
-BASED.
-
          
 </td>
 <td style="padding: 0; margin: 0">
