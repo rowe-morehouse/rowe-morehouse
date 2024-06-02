@@ -53,23 +53,19 @@ https://gist.github.com/rowe-morehouse/901e937088d377b1651a97f4297eaf91
 
 <li>Read all my <a href="https://twitter.com/objections_dog" target="_blank">🐦 Tweets about Sales & Selling! — @objections_dog</a>. <small><br /><br /></small>
 
-<li>Massively up-skilled up in email marketing — <strong>value messaging, sequencing, and the technical side</strong> of delivery. Did you know I've been doing email marketing since 2002? Also, I used to sell email advertising. Sold probably $500,000 worth of email. Now I use email mostly for <em>prospecting & lead gen</em> for my own offers.
-        
-<small><br /><br /></small>
-<li>Working on the <a href="https://www.salesforce.com/blog/salesblazer/">Salesforce Salesblazer</a> certification. Should be pretty easy, $200 bucks to take the test though. You can <a href="https://trailblazer.me/id/rowe-morehouse">see my other Salesforce certifications here</a>.
-<small><br /><br /></small>
+<li>Massively up-skilled up in email marketing — <strong>value messaging, sequencing, and the technical side</strong> of delivery. Did you know I've been doing email marketing since 2002? Also, I used to sell email advertising. Sold probably $500,000 worth of email. Now I use email mostly for <em>prospecting & lead gen</em> for my own offers.<small><br /><br /></small>
 
-<li>I'm <strike>maintaining</strike> no longer maintaining a <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">List of AI Writing Tools</a> I started compiling 3 years ago. Too many brand new products that are hyped up "wrappers" for generative writing; too much hype in this space. I'm back to basics, relying on foundational model APIs within my editor.<small><br /><br /></small>
+<li>I'm <strike>maintaining</strike> no longer maintaining a <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">List of Generative AI Writing Tools</a> I started compiling in 2021. Too many brand new products that are over-hyped "wrappers" for generative writing; too much hype in this space. I'm back to basics; relying on foundational model APIs within my editor.<small><br /><br /></small>
+
 <li>🔧 ⁣<strong>I wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. You can also see a few more of my writing samples on Medium: <a href="https://rowemore.medium.com">Rowe Morehouse</a>.
 <small><br /><br /></small>
 
-<!--<li>I'm experimenting with <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> and other corpi — like OpenLexicon, for example — to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a> I made on Kaggle.
-<small><br /><br /></small>-->
-        
-<!-- <ul type="circle">
-<li><strong>My goal with this whole Machine Learning / Artificial Intelligence</strong> angle-of-inquiry is to learn to【1】write more engaging copy,【2】develop more empathetic products, and【3】design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's <strike>fun to spin-up the AI stuff on Google Cloud</strike> it's not that fun anymore when GPT is so easy to use & a gazillion products out there w/ their own angle on it.
+<li>Started working with AI in 2020 when I created this dataset on Kaggle, and used <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a>. What I learned was that so many people knee-jerk reflexively use the terms "game changer" and "hands down" and they should punch themselves.
 <small><br /><br /></small>
-<li>"Swayze" — <strong>my Facebook Messenger AI chatbot</strong> built with <a href="https://wit.ai">Wit AI</a> — is now sunset & retired. It never really worked very well. I found building with Wit AI to be difficult. I don't know if Meta even uses it for anything anymore. But it did send me down the path toward Google's <a href="https://cloud.google.com/dialogflow/docs">Dialog Flow</a> and doing speech-to-text and text-to-speech — which is related to my ongoing obession with audio editing.
+        
+<li><strong>My goal with this whole Machine Learning / Artificial Intelligence</strong> angle-of-inquiry has been to learn to【1】write more engaging copy,【2】develop more empathetic products, and【3】design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's fun to spin-up the AI stuff on Google Cloud. <small><br /><br /></small>
+        
+<!--<li>"Swayze" — <strong>my Facebook Messenger AI chatbot</strong> built with <a href="https://wit.ai">Wit AI</a> — is now sunset & retired. It never really worked very well. I found building with Wit AI to be difficult. I don't know if Meta even uses it for anything anymore. But it did send me down the path toward Google's <a href="https://cloud.google.com/dialogflow/docs">Dialog Flow</a> and doing speech-to-text and text-to-speech — which is related to my ongoing obession with audio editing.
 <small><br /><br /></small>
 </ul> -->
 
