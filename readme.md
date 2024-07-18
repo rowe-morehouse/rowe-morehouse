@@ -15,9 +15,9 @@
 
 ### Headline
 
-I'm a Tech Exec & SALES Leader who also codes. Master's degree in marketing + certifications from Amazon AWS, Salesforce, Google, Meta. I ❤ creating Sales programs & processes that maximize revenue & customer success.
+#### I'm a Tech Exec & SALES Leader who also codes. Master's degree in marketing + certifications from Amazon AWS, Salesforce, Google, Meta. I ❤ creating Sales programs & processes that maximize revenue & customer success.
 
-<code><img width="256" src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/ph-product-of-the-day-630w.png" alt="#1 Product of the Day"></code>
+<img width="256" src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/ph-product-of-the-day-630w.png" alt="#1 Product of the Day"><br />
 
 **Recent Win ‣ #1 Product of the Day** @ Product Hunt – July 13 2024 for "<a href="https://objections.dog/sales-likelihood-calculator" target="_blank">Sales Likelihood Calculator</a>" – an interactive _gamified checklist_ for sales-training I dev'd from scratch, wrapped in a fun 8-bit design.
 
