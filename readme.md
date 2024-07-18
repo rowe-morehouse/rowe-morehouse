@@ -17,6 +17,8 @@
 
 I'm a Tech Exec & SALES Leader who also codes. Master's degree in marketing + certifications from Amazon AWS, Salesforce, Google, Meta. I ❤ creating Sales programs & processes that maximize revenue & customer success.
 
+<code><img width="256" src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/ph-product-of-the-day-630w.png" alt="#1 Product of the Day"></code>
+
 **Recent Win ‣ #1 Product of the Day** @ Product Hunt – July 13 2024 for "<a href="https://objections.dog/sales-likelihood-calculator" target="_blank">Sales Likelihood Calculator</a>" – an interactive _gamified checklist_ for sales-training I dev'd from scratch, wrapped in a fun 8-bit design.
 
 **Related Article I wrote ‣** Interpret your score from the calculator in the context of a <a href="https://objections.dog/sales-pipeline-review" class="" target="_blank">Sales Pipeline Review</a>. Includes many word-for-word questions to ask to explore & satisfy MEDDPICC conditions.
@@ -69,7 +71,7 @@ I'm a Tech Exec & SALES Leader who also codes. Master's degree in marketing + ce
 ## Click to <a href="https://objections.dog/contact" class="" target="_blank">Contact Me</a>. I'm friendly.
 
 <div align="left">
-  <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width=200px align=left"><br />
+  <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width="200px"><br />
  <h2> Extended Résumé CV ⇨ <a href="https://git.io/rowe" class="">https://git.io/rowe</a></h2>
 </div>
 
