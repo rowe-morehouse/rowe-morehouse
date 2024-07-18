@@ -1,103 +1,87 @@
-<!--
-Title: Rowe Morehouse | Blog
-Description: ▪️ Rowe Morehouse · Sales Exec · Frontline Sales Manager · Coder · Marketer w/ Master's degree & certifications from Amazon AWS, Salesforce, Google, Meta.
-Author: Rowe Morehouse
--->
+example.md
 
-https://gist.github.com/rowe-morehouse/901e937088d377b1651a97f4297eaf91
+# Rowe Morehouse
 
-<meta property="title" content="Rowe Morehouse | Blog" />  
-<meta property="description" content="▪️ Rowe Morehouse · Sales Exec · Frontline Sales Manager · Coder · Marketer w/ Master's degree & certifications from Amazon AWS, Salesforce, Google, Meta." />
-<meta property="og:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.jpg">
-<meta property="twitter:image" content="https://raw.githubusercontent.com/rowe-morehouse/rowe-morehouse/master/rowe-morehouse.jpg">
+### ‣ See my [expanded Résumé CV](https://rowe-morehouse.github.io/resume/)
+==================================================================================================================================
 
-<h1>Rowe Morehouse</h1>
-<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/rowe-morehouse.jpg" width=480px>
-<i>In Hội An, Vietnam. February 2024.</i>
-<hr width="50%">
-<h2>👋 &nbsp; Hi, thanks for stopping by! This is my blog.<br/>&nbsp; &nbsp; &nbsp; &nbsp; Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target="_blank">Rowe Morehouse</a> bio & social sites.
-</h2>
-<div align="">
-        <p>
-           &nbsp; <a href="https://twitter.com/objections_dog"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-          </a> &nbsp;
-          <a href="https://www.linkedin.com/in/rowe-morehouse"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> &nbsp;
-          <a href="https://medium.com/@rowemore"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
-          </a> &nbsp;
-          <a href="https://stackoverflow.com/users/1618304/rowe-morehouse"><img src="https://img.shields.io/badge/Stack%20Overflow-%23F28033.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
-          </a>
-        </p>
-        <p><!--<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/checkbox-changes-colors.gif" height=10 width=10 align=middle>--><em><strong></strong>June, 2024</strong></em></p>
-  <!--      
-   
-<BR CLEAR=all>
-        -->
+![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat-square&color=ff69bb)
+
+[![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/)&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-@objections_dog-black?style=flat-square&logo=X&logoColor=white)](https://x.com/objections_dog)&nbsp;
+[![Medium Badge](https://img.shields.io/badge/-Rowe%20on%20Medium-242424?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rowemore)&nbsp;
+[![Stack Badge](https://img.shields.io/badge/-Stack%20Overflow-%23F28033?style=flat-square&logo=medium&logoColor=white)](https://stackoverflow.com/users/1618304/rowe-morehouse)
+
+[![Website Badge](https://img.shields.io/badge/-objections.dog%20|%20personal%20site-26B57A?style=flat-square&logo=google-chrome&logoColor=white)](https://objections.dog)&nbsp;
+[![Website Badge](https://img.shields.io/badge/-Rowe%20Morehouse%20Résumé%20CV-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rowe-morehouse.github.io/resume/)
+
+### Headline
+
+I'm a Tech Exec & SALES Leader who also codes. Master's degree in marketing + certifications from Amazon AWS, Salesforce, Google, Meta. I ❤ creating Sales programs & processes that maximize revenue & customer success.
+
+**Recent Win ‣** #1 Product of the Day @ Product Hunt – July 13 2024 for "<a href="https://objections.dog/sales-likelihood-calculator" target="_blank">Sales Likelihood Calculator</a>" – an interactive _gamified checklist_ for sales-training I dev'd from scratch, wrapped in a fun 8-bit design.
+
+**Related Article I wrote ‣** Interpret your score from the calculator in the context of a <a href="https://objections.dog/sales-pipeline-review" class="" target="_blank">Sales Pipeline Review</a>. Includes many word-for-word questions to ask to explore & satisfy MEDDPICC conditions.
+
 <hr width="50%">
 
-<h3>Here's what's cooking this month, June 2024:</h3>
+<img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/rowe-morehouse.jpg" width="358px" style="border-radius: 8px;">
+<i>Rowe Morehouse visting Seoul Korea 서울 in 2024.</i>
 
-<ul>
+<hr width="50%">
 
-<li>Building a free game that teaches you about sales and selling: <a href="https://objections.dog/meddpicc-sales-calculator" target="_blank">MEDDPICC Sales Calculator<a>. Will They Buy? – Estimate The Probability w/ This Free Game! Review these sales "green light conditions" that indicate your deal is likely to close. Click the red squares to check them off. You want the whole board to turn GREEN. Based on MEDDPICC sales framework. You have a 5 minute countdown timer to complete the game.
-<small><br /><br /></small>
+### What else do you do, Rowe?
 
-<li>Continued focus on <strong>Sales & Selling</strong>! — writing about Sales Techniques, Sales Methodology, AI workflows for sales, & SaaS Sales Tools inlcuding <a href="https://www.g2.com/best-software-companies/top-sales" target="_blank">G2's Best Salestech Products of 2024<a>.
-<small><br /><br /></small>
+- 🤝&nbsp; Applying to full-time roles at select tech companies. Hire me, I'm awesome, I promise.
+- 💬&nbsp; <a href="https://objections.dog/sales-tips/handling-of-objections-in-sales" target="_blank">Objection Handling</a> (I wrote this) training for Sales Enablement / Sales Management.
+- ✍&nbsp; Writing call scripts, <a href="https://objections.dog/sales-tips/cold-call-script-examples" class="" target="_blank">value messaging</a>, and ROI impact statements for sales.
+- 📊&nbsp; **SEO**. <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">Here's a gist</a> I made for a curl command that pings IndexNow to get your pages instantly indexed.
+- 🌱&nbsp; Working on a new product that helps _new-client intake_ for personal injury attorneys, in natural language over Whatsapp, Google Vertex AI API, <a href="https://cloud.google.com/vertex-ai?hl=en#train-custom-ml-models" class="" target="_blank">custom training & fine-tuning LLM models</a> like Llama, Gemma, Claude 3 Haiku. Improving my AI prompting skills w/ JSON input & output.
+- 🧑‍🤝‍🧑&nbsp; LinkedIn marketing w/ scraping from CLI, spreadsheets, & messaging via automation tools.
+- 📧&nbsp; Cold email w/ tools like Clay & Instantly.
+- 🛠&nbsp; Ecommerce optimizations for self-created info products I've been selling online since 2004.
+- 😼&nbsp; I like cats & techno music.
 
+### Languages & Tools
 
-<li>Huge push into incorprating <strong>AI workflows into my daily routines</strong>. Advanced prompt crafting, assisted coding, & generative writing <i>within VS Code</i> — using Github Copilot, GPT4o, Google AI Studio, Llama. 🤖<small><br /><br /></small>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="javascript"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" alt="astro"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/261c2cda92d09ccad6f8b2dc91af32a2a5856989/topics/tailwind/tailwind.png" alt="twailwind"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 
-<li>More webdev! Current favorite stack: <strong>Astro, tailwind, react, stripe, netlify, VScode, unix CLI.</strong>. I love coding with these tools.<small><br /><br /></small>
+### Socials & Sites
 
-<li>Current fav project 🡒 <strong>Sourcing Advisor for SalesTech</strong> purchase decisions for a for a $20M Bay Area SaaS company. I'm helping them modernize their SalesTech stack. For the stuff they end up buying, I do the integrations as well.<small><br /><br /></small>
+<!-- <p align="left"> <a href="https://www.codepen.io/Boston343" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Boston343" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/BowTiedWebReapr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p> -->
 
-<li>Read all my <a href="https://twitter.com/objections_dog" target="_blank">🐦 Tweets about Sales & Selling! — @objections_dog</a>. <small><br /><br /></small>
+![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat-square&color=ff69bb)
 
-<li>Massively up-skilled up in email marketing — <strong>value messaging, sequencing, and the technical side</strong> of delivery. Did you know I've been doing email marketing since 2002? Also, I used to sell email advertising. Sold probably $500,000 worth of email. Now I use email mostly for <em>prospecting & lead gen</em> for my own offers.<small><br /><br /></small>
+[![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/)&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-@objections_dog-black?style=flat-square&logo=X&logoColor=white)](https://x.com/objections_dog)&nbsp;
+[![Medium Badge](https://img.shields.io/badge/-Rowe%20on%20Medium-242424?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rowemore)&nbsp;
+[![Stack Badge](https://img.shields.io/badge/-Stack%20Overflow-%23F28033?style=flat-square&logo=medium&logoColor=white)](https://stackoverflow.com/users/1618304/rowe-morehouse)
 
-<li>I'm <strike>maintaining</strike> no longer maintaining a <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">List of Generative AI Writing Tools</a> I started compiling in 2021. Too many brand new products that are over-hyped "wrappers" for generative writing; too much hype in this space. I'm back to basics; relying on foundational model APIs within my editor.<small><br /><br /></small>
+[![Website Badge](https://img.shields.io/badge/-objections.dog%20|%20personal%20site-26B57A?style=flat-square&logo=google-chrome&logoColor=white)](https://objections.dog)&nbsp;
+[![Website Badge](https://img.shields.io/badge/-Rowe%20Morehouse%20Résumé%20CV-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rowe-morehouse.github.io/resume/)
 
-<li>🔧 ⁣<strong>I wrote a piece</strong> on <a href="https://rowemore.medium.com/taming-uncertainty-and-risk-in-product-management-5cac9eb85dec">Managing Risk in Product Management</a>. You can also see a few more of my writing samples on Medium: <a href="https://rowemore.medium.com">Rowe Morehouse</a>.
-<small><br /><br /></small>
+<hr width="50%">
 
-<li>Started working with AI in 2020 when I created a dataset on Kaggle, and used <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">The NRC Word-Emotion Association Lexicon (EmoLex)</a> to do <a href="https://monkeylearn.com/blog/opinion-mining/">opinion mining</a> on a dataset of <a href="https://www.kaggle.com/rowemorehouse/googleplaystoreuserreviews">Google Playstore App Reviews</a>. What I learned was that so many people knee-jerk reflexively use the terms "game changer" and "hands down" and they should punch themselves.
-<small><br /><br /></small>
-        
-<li><strong>My goal with this whole Machine Learning / Artificial Intelligence</strong> angle-of-inquiry has been to learn to【1】write more engaging copy,【2】develop more empathetic products, and【3】design better UI components. The research that's out there gives me an <a href="https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf">evidence-based direction</a> … plus it's fun to spin-up the AI stuff on Google Cloud. <small><br /><br /></small>
-        
-<!--<li>"Swayze" — <strong>my Facebook Messenger AI chatbot</strong> built with <a href="https://wit.ai">Wit AI</a> — is now sunset & retired. It never really worked very well. I found building with Wit AI to be difficult. I don't know if Meta even uses it for anything anymore. But it did send me down the path toward Google's <a href="https://cloud.google.com/dialogflow/docs">Dialog Flow</a> and doing speech-to-text and text-to-speech — which is related to my ongoing obession with audio editing.
-<small><br /><br /></small>
-</ul> -->
+## Click to <a href="https://objections.dog" class="" target="_blank">Contact Me</a>. I'm friendly. 😎
 
-<li>🔥 You can check out this (DJ?) mix I made, I did it in Audacity 🡒 <a href="https://www.mixcloud.com/Rowe-Morehouse/music-for-programming-vol-6/">A relaxing hour long feel-good abstract ambient mix</a>. — I think it's killer, have a listen.
-<small><br /><br /></small><li>I led a <a href="https://chicktech.org">ChickTech Workshop</a> TEACHING WEB PROGRAMMING skills to high school students from disadvantaged communities. It went really well. I got good feedback from the students and from the Executive Director.
-<small><br /><br /></small><ul type="circle">
-<li><strong>Teaching at ChickTech</strong> is <ins>my main volunteer activity</ins>, for three (3) years now.
-<li>Google's <a href="https://docs.google.com/document/d/1E3KZf4OwRZadim0ORDPJ3QSAsPs-ZB8CA4XBdtprbck/edit">Applied Digital Skills Lesson Plan</a> format was a great inspiration.
-<small><br /><br /></small>
-</ul>
-
-<li>✅ Check out a comprehensive list of <strong>all of my <a href="https://rowe-morehouse.github.io/resume/uses/" alt="Rowe Morehouse">Software Tools</a></strong><i> — (dev tools, salestech, productivity, collaboration, audio, design, etc.)</i><small><br /><br /></small></li>
-        
-<li>BASED. That's what's up!</li>
-</ul>
-         
-</td>
-<td style="padding: 0; margin: 0">
   <div align="left">
     <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width=200px align=left"><br />
-   <h2> Résumé ⇨ https://rowe-morehouse.github.io/resume/</h2>
+   <h2> Extended Résumé CV ⇨ <a href="https://git.io/rowe" class="">https://git.io/rowe</a></h2>
   </div>
-</div>
 
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/Rowe%20Morehouse-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rowe-morehouse/) &nbsp; [![Twitter](https://img.shields.io/badge/@rowe-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/objections_dog) &nbsp; ![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat&color=ff69bb)
+<!--
+Here are some ideas to get you started:
 
-### Let's connect! ⇨ <a href="https://sunshine.social/rowemore/bio" target="_blank">Click here for my bio and links to all my socials & other stuff around the web</a>.
-</h2>
-
-<hr />
-
-
-
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
