@@ -1,5 +1,3 @@
-example.md
-
 # Rowe Morehouse
 
 ### ‣ See my [expanded Résumé CV](https://rowe-morehouse.github.io/resume/)
@@ -33,7 +31,7 @@ I'm a Tech Exec & SALES Leader who also codes. Master's degree in marketing + ce
 
 ### What else do you do, Rowe?
 
-- 🤝&nbsp; Applying to full-time roles at select tech companies. Hire me, I'm awesome, I promise.
+- 🤝&nbsp; Applying to full-time roles at select tech companies.
 - 💬&nbsp; <a href="https://objections.dog/sales-tips/handling-of-objections-in-sales" target="_blank">Objection Handling</a> (I wrote this) training for Sales Enablement / Sales Management.
 - ✍&nbsp; Writing call scripts, <a href="https://objections.dog/sales-tips/cold-call-script-examples" class="" target="_blank">value messaging</a>, and ROI impact statements for sales.
 - 📊&nbsp; **SEO**. <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">Here's a gist</a> I made for a curl command that pings IndexNow to get your pages instantly indexed.
@@ -42,6 +40,7 @@ I'm a Tech Exec & SALES Leader who also codes. Master's degree in marketing + ce
 - 📧&nbsp; Cold outreach w/ tools like Clay & Instantly.
 - 🛠&nbsp; Ecommerce optimizations for self-created info products I've been selling online since 2004.
 - 😼&nbsp; I like cats & techno music.
+- 🏆&nbsp; Eagle Scout.
 
 ### Languages & Tools
 
