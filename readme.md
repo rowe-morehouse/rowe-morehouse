@@ -37,7 +37,7 @@ I'm a Tech Exec & SALES Leader who also codes. Master's degree in marketing + ce
 - 📊&nbsp; **SEO**. <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">Here's a gist</a> I made for a curl command that pings IndexNow to get your pages instantly indexed.
 - 🌱&nbsp; Working on a zero-to-one SaaS product that helps _new-client intake_ for personal injury attorneys, in natural language over Whatsapp, Google Vertex AI API, <a href="https://cloud.google.com/vertex-ai?hl=en#train-custom-ml-models" class="" target="_blank">custom training & fine-tuning LLM models</a> like Llama, Gemma, Claude 3 Haiku. Improving my AI prompting skills w/ JSON input & output.
 - 🧑‍🤝‍🧑&nbsp; LinkedIn marketing w/ scraping from CLI, spreadsheets, & messaging via automation tools.
-- 📧&nbsp; Cold outreach w/ tools like Clay & Instantly.
+- 📧&nbsp; Cold outreach w/ tools like <a href="https://www.clay.com/" class="" target="_blank">Clay</a> & Instantly.
 - 🛠&nbsp; Ecommerce optimizations for self-created info products I've been selling online since 2004.
 - 😼&nbsp; I like cats & techno music.
 - 🏆&nbsp; Eagle Scout.
