@@ -1,6 +1,6 @@
 # Rowe Morehouse
 
-### ‣ See my [expanded Résumé CV](https://rowe-morehouse.github.io/resume/)
+### ‣ See my [Expanded Résumé CV](https://rowe-morehouse.github.io/resume/)
 =================================
 
 ![](https://komarev.com/ghpvc/?username=rowe-morehouse&style=flat-square&color=ff69bb)
@@ -72,7 +72,7 @@
 
 <div align="left">
   <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width="200px"><br />
- <h2> Extended Résumé CV ⇨ <a href="https://git.io/rowe" class="">https://git.io/rowe</a></h2>
+ <h2>Expanded Résumé CV ⇨ <a href="https://git.io/rowe" class="">https://git.io/rowe</a></h2>
 </div>
 
 #### ❦❦❦
