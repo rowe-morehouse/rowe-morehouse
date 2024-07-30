@@ -4,7 +4,9 @@ Description: ▪️ Rowe Morehouse · Sales Exec · Frontline Sales Manager · C
 Author: Rowe Morehouse
 -->
 
-https://gist.github.com/rowe-morehouse/901e937088d377b1651a97f4297eaf91
+
+<!-- person schema -->
+<!-- https://gist.github.com/rowe-morehouse/901e937088d377b1651a97f4297eaf91 -->
 
 <meta property="title" content="Rowe Morehouse | Blog" />  
 <meta property="description" content="▪️ Rowe Morehouse · Sales Exec · Frontline Sales Manager · Coder · Marketer w/ Master's degree & certifications from Amazon AWS, Salesforce, Google, Meta." />

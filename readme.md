@@ -21,7 +21,9 @@
 
 **Recent Win ‣ #1 Product of the Day** @ Product Hunt – July 13 2024 for "<a href="https://objections.dog/sales-likelihood-calculator" target="_blank">Sales Likelihood Calculator</a>" – an interactive _gamified checklist_ for sales-training I dev'd from scratch, wrapped in a fun 8-bit design.
 
-**Related Article I wrote ‣** Interpret your score from the calculator in the context of a <a href="https://objections.dog/sales-pipeline-review" class="" target="_blank">Sales Pipeline Review</a>. Includes many word-for-word questions to ask to explore & satisfy MEDDPICC conditions.
+**Related Article I wrote ‣** Interpret your score from the calculator in the context of a <a href="https://objections.dog/sales-pipeline-review" class="" target="_blank">Sales Pipeline Review</a>. Includes many word-for-word questions to ask to explore & satisfy MEDDPICC buyer conditions to advance a sale toward the close.
+
+🆕&nbsp; **I'm building an LLM application** – _AI RAG stack_ ‣ Next.js frontend, LlamaIndex, Firestore Vector KNN, Vertex AI, Llama 3.1. Claude 3.5 is my copilot for almost everything; it's f*cking incredible. Super fun!! 
 
 <hr width="50%">
 
@@ -35,11 +37,13 @@
 
 - 🤝&nbsp; Applying to full-time roles at select tech companies.
 - 💬&nbsp; <a href="https://objections.dog/sales-tips/handling-of-objections-in-sales" target="_blank">Objection Handling</a> (I wrote this) training for Sales Enablement / Sales Management.
-- ✍&nbsp; Writing call scripts, <a href="https://objections.dog/sales-tips/cold-call-script-examples" class="" target="_blank">value messaging</a>, and ROI impact statements for sales.
-- 📊&nbsp; **SEO**. <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">Here's a gist</a> I made for a curl command that pings IndexNow to get your pages instantly indexed.
-- 🌱&nbsp; Working on a zero-to-one SaaS product that helps _new-client intake_ for personal injury attorneys, in natural language over Whatsapp, Google Vertex AI API, <a href="https://cloud.google.com/vertex-ai?hl=en#train-custom-ml-models" class="" target="_blank">custom training & fine-tuning LLM models</a> like Llama, Gemma, Claude 3 Haiku. Improving my AI prompting skills w/ JSON input & output.
+- ✍&nbsp; Writing call scripts, <a href="https://objections.dog/sales-tips/cold-call-script-examples" class="" target="_blank">value messaging</a>, and "ROI impact statements" for complex sales, like enterprise software.
+- 🌱&nbsp; Coding on a SaaS product (RAG AI LLM backend) that helps _new-client intake_ for personal injury attorneys – in natural language over WhatsApp. Tuning hyperparameters in a Vector DB w/ evals based a on data-set I created & cleaned.
+- 📈&nbsp; Improving my AI prompt engineering skills w/ JSON input & output.
 - 🧑‍🤝‍🧑&nbsp; LinkedIn marketing w/ scraping from CLI, spreadsheets, & messaging via automation tools.
 - 📧&nbsp; Cold outreach w/ tools like <a href="https://www.clay.com/" class="" target="_blank">Clay</a> & Instantly.
+- 💲&nbsp; Auditing SalesTech stack, spend, & effectiveness for a client.
+- 📊&nbsp; **SEO**. <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">Here's a gist</a> I made for a curl command that pings IndexNow to get your pages instantly indexed.
 - 🛠&nbsp; Ecommerce optimizations for self-created info products I've been selling online since 2004.
 - 😼&nbsp; I like cats & techno music.
 - 🏆&nbsp; Eagle Scout.
@@ -74,6 +78,52 @@
   <img src="https://github.com/rowe-morehouse/rowe-morehouse/raw/master/main.gif" width="200px"><br />
  <h2>Expanded Résumé CV ⇨ <a href="https://git.io/rowe" class="">https://git.io/rowe</a></h2>
 </div>
+
+<hr width="50%">
+
+
+## My RAG System Architecture for an LLM app, August 2024
+
+```mermaid
+    graph TD
+    A[User Query]
+    Z[Next.js Front End]
+    A --> Z
+    Z --> B[Query Embedding]
+    B --> C[Firestore Vector Store]
+    C --> D[Retrieval]
+    D --> E[Context Generation]
+    A --> E
+    E --> F[Vertex AI]
+    F --> G[Llama 3.1 LLM]
+    G --> H[Generated Response]
+    H --> Z
+    
+    I[Raw Document Corpus] --> J[Data Cleaning]
+    J --> K[Text Extraction]
+    K --> L[Data Chunking]
+    L --> M[Document Embedding]
+    M --> C
+    
+    subgraph "Data Preprocessing"
+    J
+    K
+    L
+    end
+    
+    X1[LlamaIndex] --> L
+    X2[LlamaIndex] --> B
+    X3[LlamaIndex] --> D
+    X4[LlamaIndex] --> E
+    
+    classDef orange fill:#ff9900,stroke:#333,stroke-width:2px,color:#000000;
+    classDef blue fill:#00aaff,stroke:#333,stroke-width:2px,color:#000000;
+    classDef pink fill:#f9f,stroke:#333,stroke-width:2px,color:#000000;
+    
+    class A orange;
+    class Z blue;
+    class X1,X2,X3,X4 pink;
+```
 
 #### ❦❦❦
 
