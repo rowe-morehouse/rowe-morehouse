@@ -38,10 +38,10 @@
 - 🤝&nbsp; Applying to full-time roles at select tech companies.
 - 💬&nbsp; <a href="https://objections.dog/sales-tips/handling-of-objections-in-sales" target="_blank">Objection Handling</a> (I wrote this) training for Sales Enablement / Sales Management.
 - ✍&nbsp; Writing call scripts, <a href="https://objections.dog/sales-tips/cold-call-script-examples" class="" target="_blank">value messaging</a>, and "ROI impact statements" for complex sales, like enterprise software.
-- 🌱&nbsp; Coding on a SaaS product (RAG AI LLM backend) that helps _new-client intake_ for personal injury attorneys – in natural language over WhatsApp. Tuning hyperparameters in a Vector DB w/ evals based a on data-set I created & cleaned.
+- 🌱&nbsp; Coding on a SaaS product (**RAG AI LLM** backend) that helps _new-client intake_ for personal injury attorneys – in natural language over WhatsApp. Tuning context hyperparameters in a Vector DB w/ evals based a on data-set I created & cleaned.
 - 📈&nbsp; Improving my AI prompt engineering skills w/ JSON input & output.
-- 🧑‍🤝‍🧑&nbsp; LinkedIn marketing w/ scraping from CLI, spreadsheets, & messaging via automation tools.
-- 📧&nbsp; Cold outreach w/ tools like <a href="https://www.clay.com/" class="" target="_blank">Clay</a> & Instantly.
+- 🧑‍🤝‍🧑&nbsp; LinkedIn marketing w/ scraping from CLI to spreadsheets w/ outbound marketing messaging via automation tools.
+- 📧&nbsp; Using enrichment & personalization tools like <a href="https://www.clay.com/" class="" target="_blank">Clay</a>.
 - 💲&nbsp; Auditing SalesTech stack, spend, & effectiveness for a client.
 - 📊&nbsp; **SEO**. <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">Here's a gist</a> I made for a curl command that pings IndexNow to get your pages instantly indexed.
 - 🛠&nbsp; Ecommerce optimizations for self-created info products I've been selling online since 2004.
@@ -55,6 +55,7 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/261c2cda92d09ccad6f8b2dc91af32a2a5856989/topics/tailwind/tailwind.png" alt="twailwind"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 
 ### Socials & Sites
 
