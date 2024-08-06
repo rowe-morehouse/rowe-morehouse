@@ -35,14 +35,13 @@
 
 ### What else do you do, Rowe?
 
-- 🤝&nbsp; Applying to full-time roles at select tech companies.
-- 💬&nbsp; <a href="https://objections.dog/sales-tips/handling-of-objections-in-sales" target="_blank">Objection Handling</a> (I wrote this) training for Sales Enablement / Sales Management.
-- ✍&nbsp; Writing call scripts, <a href="https://objections.dog/sales-tips/cold-call-script-examples" class="" target="_blank">value messaging</a>, and "ROI impact statements" for complex sales, like enterprise software.
-- 🌱&nbsp; Coding on a SaaS product (**RAG AI LLM** backend) that helps _new-client intake_ for personal injury attorneys – in natural language over WhatsApp. Tuning context hyperparameters in a Vector DB w/ evals based a on data-set I created & cleaned.
-- 📈&nbsp; Improving my AI prompt engineering skills w/ JSON input & output.
+- 💲&nbsp; Auditing SalesTech stack spend & effectiveness for a $20M bay area SaaS company.
+- ✍&nbsp; Writing call scripts, <a href="https://objections.dog/sales-tips/cold-call-script-examples" class="" target="_blank">value messaging</a> (my article), and "ROI impact statements" for complex sales; like enterprise software.
+- 💬&nbsp; <a href="https://objections.dog/sales-tips/handling-of-objections-in-sales" target="_blank">Objection Handling</a> training for Sales Enablement / Sales Management.
+- 🌱&nbsp; Coding on a SaaS product (**RAG AI LLM** backend) that helps _new-client intake_ for personal injury attorneys – in natural language via a chat interface. Tuning context hyperparameters in a Vector DB w/ evals based a on data-set I created & cleaned. (see diagram below)
+- 📈&nbsp; Improving my GenAI prompt engineering skills w/ JSON input & output.
 - 🧑‍🤝‍🧑&nbsp; LinkedIn marketing w/ scraping from CLI to spreadsheets w/ outbound marketing messaging via automation tools.
 - 📧&nbsp; Using enrichment & personalization tools like <a href="https://www.clay.com/" class="" target="_blank">Clay</a>.
-- 💲&nbsp; Auditing SalesTech stack, spend, & effectiveness for a client.
 - 📊&nbsp; **SEO**. <a href="https://gist.github.com/rowe-morehouse/b73cd74f5ed0e60633eb233244bd69e6" target="_blank">Here's a gist</a> I made for a curl command that pings IndexNow to get your pages instantly indexed.
 - 🛠&nbsp; Ecommerce optimizations for self-created info products I've been selling online since 2004.
 - 😼&nbsp; I like cats & techno music.
